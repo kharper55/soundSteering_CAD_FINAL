@@ -1,0 +1,49 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Availability,Check_prices,MANUFACTURER,MF,MP,PARTREV,Package,Price,Purchase-URL,STANDARD,SnapEDA_Link,MAXIMUM_PACKAGE_HEIGHT
+1,Unpolarized capacitor,C,C13,1nF,C_0603_1608Metric,1,~,,,,,,,,,,,,
+2,Unpolarized capacitor,C,C9 C25 C29 C39 C43 C77 C78,10nF,C_0603_1608Metric,7,~,,,,,,,,,,,,
+3,Unpolarized capacitor,C,C75,47nF,C_0603_1608Metric,1,~,,,,,,,,,,,,
+4,Unpolarized capacitor,C,C6 C8 C16 C28 C32 C40 C41 C42 C45 C49 C50 C57 C58 C61 C63 C64 C66 C76 C88 C89 C90 C91 C92 C94 C95 C98 C99 C100 C102 C105 C106 C107 C110 C111 C114 C117 C118 C119 C121 C123 C124 C126 C130 C132 C133,100nF,C_0603_1608Metric,45,~,,,,,,,,,,,,
+5,Unpolarized capacitor,C,C55 C59 C60 C73 C74 C87,1µF,C_0603_1608Metric,6,~,,,,,,,,,,,,
+6,Unpolarized capacitor,C,C12 C56 C65 C96 C97 C104 C112 C113 C115 C116 C134 C135,10µF,C_0603_1608Metric,12,~,,,,,,,,,,,,
+7,Unpolarized capacitor,C,C69 C70 C71 C72 C101 C103 C108 C109 C120 C122 C125 C127 C128 C131,22µF,C_0603_1608Metric,14,~,,,,,,,,,,,,
+8,Unpolarized capacitor,C,C80 C81 C82 C83 C84 C86,47µF,C_0603_1608Metric,6,~,,,,,,,,,,,,
+9,Bidirectional transient-voltage-suppression diode,D_TVS,D5 D6 D7,LESD5D5.0CT1G,D_SOD-523,3,https://datasheet.lcsc.com/lcsc/1912111437_LRC-LESD5D5-0CT1G_C383211.pdf,,,,,,,,,,,,
+10,Schottky diode,D_Schottky,D1 D2 D4,MBR0520L,D_SOD-123,3,~,,,,,,,,,,,,
+11,"0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23",2N7002,Q1 Q2 Q3 Q4,DMN65D8L,DMP3099L-7_DIO,4,https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF,,,,,,,,,,,,
+12,"Resistor, US symbol",R_US,R51 R71 R76 R77 R78 R79 R80 R82 R83 R84 R85,0Ω,R_0603_1608Metric,11,~,,,,,,,,,,,,
+13,"Resistor, US symbol",R_US,R55 R58,0Ω,R_0402_1005Metric,2,~,,,,,,,,,,,,
+14,"Resistor, US symbol",R_US,R41 R42 R69 R70 R74 R75,100Ω,R_0603_1608Metric,6,~,,,,,,,,,,,,
+15,"Resistor, US symbol",R_US,R50,180Ω,R_0603_1608Metric,1,~,,,,,,,,,,,,
+16,"Resistor, US symbol",R_US,R66 R67,1kΩ,R_0603_1608Metric,2,~,,,,,,,,,,,,
+17,"Resistor, US symbol",R_US,R59 R60 R68 R73 R81 R86,4.7kΩ,R_0603_1608Metric,6,~,,,,,,,,,,,,
+18,"Resistor, US symbol",R_US,R72,10kΩ,R_0603_1608Metric,1,~,,,,,,,,,,,,
+19,"Resistor, US symbol",R_US,R64,22.1kΩ,R_0603_1608Metric,1,~,,,,,,,,,,,,
+20,"Resistor, US symbol",R_US,R65,47.5kΩ,R_0603_1608Metric,1,~,,,,,,,,,,,,
+21,"Resistor, US symbol",R_US,R44 R45 R54,100kΩ,R_0603_1608Metric,3,~,,,,,,,,,,,,
+22,"Ultralow Power, Low Distortion ADC Driver",ADA4940-2ACPZ-R7_1,U3,ADA4940-2ACPZ-R7,QFN50P400X400X80-25N,1,,In Stock,https://www.snapeda.com/parts/ADA4940-2ACPZ-R7/Analog+Devices/view-part/?ref=eda,ANALOG DEVICES,Analog Devices,ADA4940-2ACPZ-R7,E,LFCSP -24 Analog Devices,None,https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=552404&manufacturer=Analog Devices&part_name=ADA4940-2ACPZ-R7&search_term=ada4940,IPC 7351B,https://www.snapeda.com/parts/ADA4940-2ACPZ-R7/Analog+Devices/view-part/?ref=snap,
+23,"Ultralow Power, Low Distortion ADC Driver",ADA4940-2ACPZ-R7,U4,ADA4940-2ACPZ-R7,QFN50P400X400X80-25N,1,,In Stock,https://www.snapeda.com/parts/ADA4940-2ACPZ-R7/Analog+Devices/view-part/?ref=eda,ANALOG DEVICES,Analog Devices,ADA4940-2ACPZ-R7,E,LFCSP -24 Analog Devices,None,https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=552404&manufacturer=Analog Devices&part_name=ADA4940-2ACPZ-R7&search_term=ada4940,IPC 7351B,https://www.snapeda.com/parts/ADA4940-2ACPZ-R7/Analog+Devices/view-part/?ref=snap,
+24,"USB to UART master bridge, QFN-28",CP2102N-Axx-xQFN28,U17,CP2102N-Axx-xQFN28,QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm,1,https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf,,,,,,,,,,,,
+25,"Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 +EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz Integrated",ESP32-WROOM-32D,U18,ESP32-WROOM-32D,MODULE_ESP32-WROOM-32D,1,,Not in stock,https://www.snapeda.com/parts/ESP32-WROOM-32D/Espressif+Systems/view-part/?ref=eda,Espressif Systems,Espressif Systems,ESP32-WROOM-32D,1.9,Non Standard Espressif Systems,None,,Manufacturer Recommendations,https://www.snapeda.com/parts/ESP32-WROOM-32D/Espressif+Systems/view-part/?ref=snap,3.2 mm
+26,,MIC29302AWD-TR,U9,MIC29502WU,TO-263-5_TabPin6,1,MIC29302AWD-TR,,,,,,,,,,,,
+27,"Dual SoundPlus Low Power, Low Noise & Low Distortion Audio Operational Amplifiers, VSSOP-8",OPA1692xDGK,U11,OPA2837xDGK,VSSOP-8_3.0x3.0mm_P0.65mm,1,https://www.ti.com/lit/ds/symlink/opa1692.pdf,,,,,,,,,,,,
+28,,REF3430TIDBVR_2,U10,REF3430TIDBVR,DBV0006A_N,1,REF3430TIDBVR,,,,,,,,,,,,
+29,,SN74LVC540APWR_1,U12 U13 U15 U16 U19 U20 U21 U22,SN74LVC540APWR,PW20-L,8,SN74LVC540APWR,,,,,,,,,,,,
+30,,TPS7A9101DSKR_1,U7,TPS7A9201DSKT,SON50P250X250X80-11N,1,,,,Texas Instruments,,,December 2016,,,,IPC-7351B,,0.8mm
+31,,TPS7A9101DSKR,U8,TPS7A9201DSKT,SON50P250X250X80-11N,1,,,,Texas Instruments,,,December 2016,,,,IPC-7351B,,0.8mm
+32,,TS472IQT,U1,TS472IQT,QFN_72IQT_STM,1,TS472IQT,,,,,,,,,,,,
+
+
+
+
+
+Component Groups:,32
+Component Count:,154
+Fitted Components:,154
+Number of PCBs:,1
+Total components:,154
+Schematic Version:,
+Schematic Date:,
+PCB Variant:,default
+BoM Date:,12/13/2023 10:40:13 AM
+Schematic Source:,Ultrasonic Sound Steering - Control Rev. A.kicad_sch
+KiCad Version:,Eeschema (6.0.10)

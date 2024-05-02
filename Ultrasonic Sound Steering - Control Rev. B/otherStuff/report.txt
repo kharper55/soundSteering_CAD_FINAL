@@ -1,0 +1,1106 @@
+Info: 
+Info: Only selected footprints will be reannotated.
+Info: Front footprints will start at 1
+Info: Back footprints will start at 1.
+Info: Prior to sorting by footprint location, the coordinates of which will be rounded to a 0.0100 mm, 0.0100 mm grid.
+Info: 
+Info: 
+Info: Front Footprints
+Info: *********** Sort on Footprint Coordinates ***********
+Info: Sort Code 1
+Info: 1 H4 UUID: [5ef39d40-b55b-4409-b36c-55ace9773fcc], X, Y: 270.2001 mm, 31.4900 mm, Rounded X, Y, 270.2000 mm, 31.4900 mm
+Info: 2 H3 UUID: [7f6b7f0f-1088-4a6f-96c7-380cabd2f233], X, Y: 162.2002 mm, 31.4900 mm, Rounded X, Y, 162.2000 mm, 31.4900 mm
+Info: 3 P1 UUID: [6f78a790-197d-4599-be1c-a15c64767265], X, Y: 260.8551 mm, 34.3800 mm, Rounded X, Y, 260.8600 mm, 34.3800 mm
+Info: 4 P2 UUID: [7a461615-ffd7-4d30-9663-87001a941793], X, Y: 237.0701 mm, 34.3800 mm, Rounded X, Y, 237.0700 mm, 34.3800 mm
+Info: 5 P3 UUID: [b7c12510-6d3f-4c6a-94f6-3d0dc28c4cde], X, Y: 213.2476 mm, 34.3800 mm, Rounded X, Y, 213.2500 mm, 34.3800 mm
+Info: 6 P4 UUID: [4b9d0df7-170f-4f7f-a033-8b28d6827d94], X, Y: 189.3551 mm, 34.3800 mm, Rounded X, Y, 189.3600 mm, 34.3800 mm
+Info: 7 R74 UUID: [192819fe-81a5-48ce-b989-7daec683b7d6], X, Y: 285.6400 mm, 38.6100 mm, Rounded X, Y, 285.6400 mm, 38.6100 mm
+Info: 8 R75 UUID: [aceaaa9f-2b43-44a9-b572-54237d9b5ddd], X, Y: 284.1000 mm, 38.6100 mm, Rounded X, Y, 284.1000 mm, 38.6100 mm
+Info: 9 C96 UUID: [d31a0397-f6ec-4a75-b0f9-c2d860a3d8c2], X, Y: 243.1000 mm, 41.3000 mm, Rounded X, Y, 243.1000 mm, 41.3000 mm
+Info: 10 C94 UUID: [c2bd5aec-4e19-4a4d-851d-8b688b552ec4], X, Y: 241.6000 mm, 41.3000 mm, Rounded X, Y, 241.6000 mm, 41.3000 mm
+Info: 11 C95 UUID: [f7d8199e-b9d8-48f1-bcea-ccafea0f0110], X, Y: 224.1000 mm, 41.5000 mm, Rounded X, Y, 224.1000 mm, 41.5000 mm
+Info: 12 C93 UUID: [2ff3868e-4557-4a7c-8d10-9de1767db7a0], X, Y: 222.6000 mm, 41.5000 mm, Rounded X, Y, 222.6000 mm, 41.5000 mm
+Info: 13 C104 UUID: [77131fb7-b846-4782-86b5-000abba21fb8], X, Y: 213.1000 mm, 41.5000 mm, Rounded X, Y, 213.1000 mm, 41.5000 mm
+Info: 14 C102 UUID: [9f405f32-2f64-4263-b93f-015da219d625], X, Y: 211.6000 mm, 41.5000 mm, Rounded X, Y, 211.6000 mm, 41.5000 mm
+Info: 15 C106 UUID: [21935355-0ea7-4418-bf57-3f39151b43f0], X, Y: 194.6000 mm, 41.5000 mm, Rounded X, Y, 194.6000 mm, 41.5000 mm
+Info: 16 C108 UUID: [5b7d43c3-fe25-4339-ba2b-cab150709af7], X, Y: 193.0000 mm, 41.5000 mm, Rounded X, Y, 193.0000 mm, 41.5000 mm
+Info: 17 D7 UUID: [b641bdf0-49eb-4e1c-94cb-5314bfd786c3], X, Y: 171.2000 mm, 43.1000 mm, Rounded X, Y, 171.2000 mm, 43.1000 mm
+Info: 18 D6 UUID: [15c5f8f7-2afb-450d-b21e-f225e625be45], X, Y: 167.8000 mm, 43.1000 mm, Rounded X, Y, 167.8000 mm, 43.1000 mm
+Info: 19 D8 UUID: [ad3ab07d-9057-4924-bd8b-8088b57ed8a1], X, Y: 164.4000 mm, 43.1000 mm, Rounded X, Y, 164.4000 mm, 43.1000 mm
+Info: 20 R2 UUID: [6c8bd184-798c-4f7b-a843-9cd77462ab86], X, Y: 285.1250 mm, 43.3700 mm, Rounded X, Y, 285.1200 mm, 43.3700 mm
+Info: 21 R1 UUID: [0578c37e-47f8-452a-a67a-b190503e62a1], X, Y: 285.1300 mm, 44.9400 mm, Rounded X, Y, 285.1300 mm, 44.9400 mm
+Info: 22 C6 UUID: [90d4da69-4018-498f-bb6b-4cfebdb4cb5a], X, Y: 256.9948 mm, 45.9200 mm, Rounded X, Y, 256.9900 mm, 45.9200 mm
+Info: 23 R5 UUID: [0b83f195-4963-4ca1-a54c-d24446b93c1d], X, Y: 255.4698 mm, 45.9200 mm, Rounded X, Y, 255.4700 mm, 45.9200 mm
+Info: 24 R6 UUID: [a8cb8963-6a5a-49e4-a7a4-19c73d057da1], X, Y: 248.5198 mm, 45.9767 mm, Rounded X, Y, 248.5200 mm, 45.9800 mm
+Info: 25 C4 UUID: [b4efda08-249d-4e6f-88e2-4c848a29d86f], X, Y: 246.9948 mm, 46.0017 mm, Rounded X, Y, 246.9900 mm, 46.0000 mm
+Info: 26 U2 UUID: [b464a15f-49cd-483f-929b-b1d63c0dfe61], X, Y: 252.9200 mm, 47.6602 mm, Rounded X, Y, 252.9200 mm, 47.6600 mm
+Info: 27 G*** UUID: [f62f571e-809b-4679-b4e9-53366150a207], X, Y: 171.0000 mm, 48.1000 mm, Rounded X, Y, 171.0000 mm, 48.1000 mm
+Info: 28 G*** UUID: [f1c5bfbf-437b-4444-ade4-cd4697dfba52], X, Y: 164.1000 mm, 48.1000 mm, Rounded X, Y, 164.1000 mm, 48.1000 mm
+Info: 29 R8 UUID: [c76515d9-e052-481d-a8d4-7fa5a038c2eb], X, Y: 256.9948 mm, 49.0200 mm, Rounded X, Y, 256.9900 mm, 49.0200 mm
+Info: 30 R7 UUID: [2f5d750f-5572-471e-ad27-fa2c6e839281], X, Y: 246.9948 mm, 49.1017 mm, Rounded X, Y, 246.9900 mm, 49.1000 mm
+Info: 31 R12 UUID: [ef9dd0d9-21e3-49e7-af84-aa2227a2675a], X, Y: 253.7200 mm, 51.2950 mm, Rounded X, Y, 253.7200 mm, 51.2900 mm
+Info: 32 R15 UUID: [7903577e-90f3-4db0-83ab-298ddfa54431], X, Y: 252.1200 mm, 51.3200 mm, Rounded X, Y, 252.1200 mm, 51.3200 mm
+Info: 33 R20 UUID: [e50c0e15-2a00-42e9-969f-a33d5defc610], X, Y: 255.9700 mm, 52.0450 mm, Rounded X, Y, 255.9700 mm, 52.0400 mm
+Info: 34 R21 UUID: [9a23b505-a1c1-4c55-8e94-07d0a04f6fc8], X, Y: 249.8700 mm, 52.0700 mm, Rounded X, Y, 249.8700 mm, 52.0700 mm
+Info: 35 C30 UUID: [ee7c2646-8918-4316-a13c-a55547939d0d], X, Y: 256.7200 mm, 54.3200 mm, Rounded X, Y, 256.7200 mm, 54.3200 mm
+Info: 36 R23 UUID: [0a22617f-48e2-405b-8c59-09456fa25df2], X, Y: 255.2200 mm, 54.3200 mm, Rounded X, Y, 255.2200 mm, 54.3200 mm
+Info: 37 C25 UUID: [2add6fbd-b38e-45b6-a212-125797d8d517], X, Y: 253.7200 mm, 54.3200 mm, Rounded X, Y, 253.7200 mm, 54.3200 mm
+Info: 38 C26 UUID: [f990f52e-1060-43c0-97b5-9bdc75fcd620], X, Y: 252.1200 mm, 54.3450 mm, Rounded X, Y, 252.1200 mm, 54.3400 mm
+Info: 39 R22 UUID: [0b8f20a1-43ed-46d2-8b26-702ba0309f43], X, Y: 250.6200 mm, 54.3450 mm, Rounded X, Y, 250.6200 mm, 54.3400 mm
+Info: 40 C31 UUID: [b8513cf6-7d74-49e5-a1db-c65cbb1ba585], X, Y: 249.1200 mm, 54.3450 mm, Rounded X, Y, 249.1200 mm, 54.3400 mm
+Info: 41 R31 UUID: [a8602b57-4e29-4aee-9e20-8a3468aa8102], X, Y: 248.9902 mm, 57.5333 mm, Rounded X, Y, 248.9900 mm, 57.5300 mm
+Info: 42 C43 UUID: [42c4c59c-cc5c-4fd7-a70a-157ab00b49dd], X, Y: 247.4902 mm, 57.5383 mm, Rounded X, Y, 247.4900 mm, 57.5400 mm
+Info: 43 U4 UUID: [9b29cd54-7d87-4a06-95ed-141c28052086], X, Y: 252.9200 mm, 59.1200 mm, Rounded X, Y, 252.9200 mm, 59.1200 mm
+Info: 44 R30 UUID: [542dc883-e43e-472f-abc6-3a26a651cfff], X, Y: 248.9902 mm, 60.7133 mm, Rounded X, Y, 248.9900 mm, 60.7100 mm
+Info: 45 C42 UUID: [e14837a6-e638-4080-99ac-983030d82948], X, Y: 247.4802 mm, 60.7183 mm, Rounded X, Y, 247.4800 mm, 60.7200 mm
+Info: 46 C13 UUID: [5c6f666c-9dd8-4829-8e80-5befac30e1d8], X, Y: 266.1745 mm, 63.2595 mm, Rounded X, Y, 266.1700 mm, 63.2600 mm
+Info: 47 C2 UUID: [32d9b593-6e00-4ffd-a08a-8f7fab912e91], X, Y: 264.6745 mm, 63.2595 mm, Rounded X, Y, 264.6700 mm, 63.2600 mm
+Info: 48 R4 UUID: [335eb178-9181-4ef2-a296-3c4829b20506], X, Y: 263.1745 mm, 63.2595 mm, Rounded X, Y, 263.1700 mm, 63.2600 mm
+Info: 49 C52 UUID: [90c07117-21cb-4709-aafc-49395e5940fc], X, Y: 250.6200 mm, 63.8950 mm, Rounded X, Y, 250.6200 mm, 63.8900 mm
+Info: 50 C53 UUID: [f0b0f0b8-d6ab-47f5-b3d7-a419942acf09], X, Y: 255.1200 mm, 63.9200 mm, Rounded X, Y, 255.1200 mm, 63.9200 mm
+Info: 51 R35 UUID: [96bb19ba-ff89-4c77-a440-9e0a11db0f5c], X, Y: 253.6200 mm, 63.9200 mm, Rounded X, Y, 253.6200 mm, 63.9200 mm
+Info: 52 R34 UUID: [92833a25-9b29-40f2-9ff9-85f116f08a3f], X, Y: 252.1200 mm, 63.9200 mm, Rounded X, Y, 252.1200 mm, 63.9200 mm
+Info: 53 R3 UUID: [eb0800e6-e528-4757-9302-dcfdf8abad5f], X, Y: 261.0995 mm, 65.1095 mm, Rounded X, Y, 261.1000 mm, 65.1100 mm
+Info: 54 C49 UUID: [4f0d0ace-e127-46ac-950d-6772649d938a], X, Y: 252.8700 mm, 66.1400 mm, Rounded X, Y, 252.8700 mm, 66.1400 mm
+Info: 55 C1 UUID: [0938bcb7-e6c9-4788-b5e6-9acbacb9b62b], X, Y: 261.0995 mm, 66.6095 mm, Rounded X, Y, 261.1000 mm, 66.6100 mm
+Info: 56 U1 UUID: [93391fc0-2245-4688-ae4c-8d46a3492553], X, Y: 265.2445 mm, 67.3595 mm, Rounded X, Y, 265.2400 mm, 67.3600 mm
+Info: 57 R28 UUID: [82640fbd-3c73-4450-a22e-da4ba30d7b63], X, Y: 258.1450 mm, 67.8500 mm, Rounded X, Y, 258.1400 mm, 67.8500 mm
+Info: 58 R29 UUID: [e7bf863f-b7ab-4ead-b51e-bc27fb58766e], X, Y: 255.1700 mm, 67.8500 mm, Rounded X, Y, 255.1700 mm, 67.8500 mm
+Info: 59 R65 UUID: [75d41bf9-6a28-4542-b1f4-cd0ecc474c5b], X, Y: 174.7400 mm, 69.1100 mm, Rounded X, Y, 174.7400 mm, 69.1100 mm
+Info: 60 R66 UUID: [11961651-8c18-44a2-9be0-223b05e9f2bd], X, Y: 171.6600 mm, 69.1100 mm, Rounded X, Y, 171.6600 mm, 69.1100 mm
+Info: 61 R67 UUID: [c720f2e8-cac0-49f0-894e-f5031baecdde], X, Y: 168.6100 mm, 69.1100 mm, Rounded X, Y, 168.6100 mm, 69.1100 mm
+Info: 62 C40 UUID: [958d8925-0e3f-4da3-a6b1-bfae443f6cfd], X, Y: 258.1450 mm, 69.3500 mm, Rounded X, Y, 258.1400 mm, 69.3500 mm
+Info: 63 C41 UUID: [71bd50be-7db5-4780-bbec-b6e8ed043e99], X, Y: 255.1700 mm, 69.3500 mm, Rounded X, Y, 255.1700 mm, 69.3500 mm
+Info: 64 R64 UUID: [2fd27f65-5d80-4188-b2bf-acc531168e70], X, Y: 174.7400 mm, 70.6600 mm, Rounded X, Y, 174.7400 mm, 70.6600 mm
+Info: 65 C51 UUID: [8e789659-96b5-4a8d-93cb-7298e7069d96], X, Y: 251.8772 mm, 71.0578 mm, Rounded X, Y, 251.8800 mm, 71.0600 mm
+Info: 66 C18 UUID: [9996c1e2-bf8a-4331-acff-6dbfe163533c], X, Y: 266.6445 mm, 71.8678 mm, Rounded X, Y, 266.6400 mm, 71.8700 mm
+Info: 67 C17 UUID: [0a662090-924a-41f9-9c84-ecfee2765f3e], X, Y: 265.0445 mm, 71.8678 mm, Rounded X, Y, 265.0400 mm, 71.8700 mm
+Info: 68 C28 UUID: [28542c89-831f-46a2-9572-15f587ab3dd8], X, Y: 260.5450 mm, 71.8900 mm, Rounded X, Y, 260.5400 mm, 71.8900 mm
+Info: 69 Q3 UUID: [d3c47d26-7908-49cc-ab0e-07a830d9cec5], X, Y: 178.5000 mm, 72.0500 mm, Rounded X, Y, 178.5000 mm, 72.0500 mm
+Info: 70 R33 UUID: [9946b09b-2d8e-41c4-9b8b-ed51b1f0b4bf], X, Y: 251.8772 mm, 72.5578 mm, Rounded X, Y, 251.8800 mm, 72.5600 mm
+Info: 71 R70 UUID: [7aacb1dd-9b5b-400c-b776-7248739c89ff], X, Y: 175.5100 mm, 72.9800 mm, Rounded X, Y, 175.5100 mm, 72.9800 mm
+Info: 72 R71 UUID: [8ef63d0b-c40a-4028-9155-7be2f9ffa36c], X, Y: 183.0100 mm, 72.9900 mm, Rounded X, Y, 183.0100 mm, 72.9900 mm
+Info: 73 C129 UUID: [42e22537-8a59-4884-bd3a-296ff192f30d], X, Y: 181.4800 mm, 73.0000 mm, Rounded X, Y, 181.4800 mm, 73.0000 mm
+Info: 74 R37 UUID: [cb7e0a10-8b63-4d06-a672-9a51c28baffb], X, Y: 240.6750 mm, 73.2543 mm, Rounded X, Y, 240.6700 mm, 73.2500 mm
+Info: 75 C48 UUID: [37e90919-1fd3-4491-a9f2-abbb7c6a93ce], X, Y: 249.6772 mm, 73.3578 mm, Rounded X, Y, 249.6800 mm, 73.3600 mm
+Info: 76 U3 UUID: [83b39ec6-0a03-45f8-aae0-940e61a7cd70], X, Y: 256.5929 mm, 73.4056 mm, Rounded X, Y, 256.5900 mm, 73.4100 mm
+Info: 77 U5 UUID: [bf2f306b-7e48-4394-9dde-f34ee5ca8ec2], X, Y: 244.7600 mm, 73.9632 mm, Rounded X, Y, 244.7600 mm, 73.9600 mm
+Info: 78 R32 UUID: [bb950574-61bb-4618-8728-ac44e25a7a25], X, Y: 251.8772 mm, 74.2578 mm, Rounded X, Y, 251.8800 mm, 74.2600 mm
+Info: 79 U24 UUID: [46db3e31-f72d-4b19-8aa0-55fdef644baa], X, Y: 170.2400 mm, 74.3900 mm, Rounded X, Y, 170.2400 mm, 74.3900 mm
+Info: 80 R38 UUID: [45e4f1da-2cd8-4e6f-aa8f-689a94f70921], X, Y: 240.6750 mm, 74.8043 mm, Rounded X, Y, 240.6700 mm, 74.8000 mm
+Info: 81 R18 UUID: [2d249090-11f4-449d-862f-8733c097b5af], X, Y: 268.0900 mm, 74.8800 mm, Rounded X, Y, 268.0900 mm, 74.8800 mm
+Info: 82 R17 UUID: [52124a33-5324-45fa-b076-c4332c089c58], X, Y: 266.5900 mm, 74.8800 mm, Rounded X, Y, 266.5900 mm, 74.8800 mm
+Info: 83 R16 UUID: [4ee4ae8b-61c7-460c-873f-ed49651743e8], X, Y: 265.0900 mm, 74.8800 mm, Rounded X, Y, 265.0900 mm, 74.8800 mm
+Info: 84 R19 UUID: [48259941-b1fb-4747-bfc0-4331eaabce95], X, Y: 263.5900 mm, 74.8800 mm, Rounded X, Y, 263.5900 mm, 74.8800 mm
+Info: 85 C29 UUID: [c9b8090c-a012-4831-a62a-59edb3a90baf], X, Y: 260.5450 mm, 74.8900 mm, Rounded X, Y, 260.5400 mm, 74.8900 mm
+Info: 86 R61 UUID: [97c48f85-5a6d-4bef-8746-bcdebd06ca61], X, Y: 197.1100 mm, 75.2500 mm, Rounded X, Y, 197.1100 mm, 75.2500 mm
+Info: 87 C50 UUID: [9a103e91-c496-430d-9146-89abff106f87], X, Y: 251.8772 mm, 75.7578 mm, Rounded X, Y, 251.8800 mm, 75.7600 mm
+Info: 88 Q4 UUID: [92dae593-27cc-438d-a171-3260aeebd602], X, Y: 178.4900 mm, 75.9200 mm, Rounded X, Y, 178.4900 mm, 75.9200 mm
+Info: 89 R69 UUID: [fbef717e-a140-4706-a0a6-c307fe2c19e4], X, Y: 175.5000 mm, 76.0200 mm, Rounded X, Y, 175.5000 mm, 76.0200 mm
+Info: 90 R72 UUID: [c3b5ef56-74ef-43ec-b9f8-07e69d639ad9], X, Y: 183.0100 mm, 76.0350 mm, Rounded X, Y, 183.0100 mm, 76.0300 mm
+Info: 91 C128 UUID: [b37c6c1a-abc1-4336-984f-1696003b4358], X, Y: 181.4800 mm, 76.0300 mm, Rounded X, Y, 181.4800 mm, 76.0300 mm
+Info: 92 U13 UUID: [78d52183-fc9f-473d-af48-32cb8a86e314], X, Y: 216.5000 mm, 76.5000 mm, Rounded X, Y, 216.5000 mm, 76.5000 mm
+Info: 93 FB1 UUID: [13478164-44d8-4b70-9a3b-18f200deddfc], X, Y: 270.0850 mm, 78.5550 mm, Rounded X, Y, 270.0800 mm, 78.5500 mm
+Info: 94 R53 UUID: [9d9169e7-d932-4355-8a5e-b13cc3a2fc9a], X, Y: 165.2800 mm, 80.8300 mm, Rounded X, Y, 165.2800 mm, 80.8300 mm
+Info: 95 R52 UUID: [9be3b8fe-2aed-47e1-bf97-ad717698cc02], X, Y: 161.4700 mm, 80.8400 mm, Rounded X, Y, 161.4700 mm, 80.8400 mm
+Info: 96 U9 UUID: [1e35901f-e7f0-47bc-aea6-8bbf3533fe51], X, Y: 270.0900 mm, 82.6500 mm, Rounded X, Y, 270.0900 mm, 82.6500 mm
+Info: 97 U11 UUID: [81382938-a484-404e-ae45-0197ce3f233a], X, Y: 261.4800 mm, 82.7250 mm, Rounded X, Y, 261.4800 mm, 82.7200 mm
+Info: 98 R42 UUID: [16936265-9da4-432d-a361-22a87bc4a26f], X, Y: 257.4100 mm, 85.3750 mm, Rounded X, Y, 257.4100 mm, 85.3700 mm
+Info: 99 C73 UUID: [1ad55954-5086-4ae6-acf2-05f4ff0708cd], X, Y: 270.3350 mm, 86.6250 mm, Rounded X, Y, 270.3300 mm, 86.6200 mm
+Info: 100 U12 UUID: [c8756d37-f96f-4413-a974-4dbac44a0e0c], X, Y: 261.4550 mm, 87.2400 mm, Rounded X, Y, 261.4500 mm, 87.2400 mm
+Info: 101 U10 UUID: [ebbc979d-a82a-471c-b7ac-e64b771ab7d5], X, Y: 265.4700 mm, 87.2697 mm, Rounded X, Y, 265.4700 mm, 87.2700 mm
+Info: 102 C63 UUID: [caec2e82-d955-4b57-b3b9-4b6088cd5e3d], X, Y: 250.9250 mm, 87.5800 mm, Rounded X, Y, 250.9200 mm, 87.5800 mm
+Info: 103 C65 UUID: [8d6a3f03-ec70-4c74-8934-5b1887b0c26a], X, Y: 249.4250 mm, 87.5800 mm, Rounded X, Y, 249.4200 mm, 87.5800 mm
+Info: 104 C71 UUID: [55d8539e-39e3-440e-aa96-8af5bcd2eee1], X, Y: 258.1650 mm, 87.5900 mm, Rounded X, Y, 258.1600 mm, 87.5900 mm
+Info: 105 R41 UUID: [46e0d02b-21e0-4f5f-8bb2-290863801475], X, Y: 256.6400 mm, 87.5900 mm, Rounded X, Y, 256.6400 mm, 87.5900 mm
+Info: 106 U6 UUID: [0e20234a-d07f-4b02-bfb0-6ca2c38105cb], X, Y: 253.9500 mm, 87.5900 mm, Rounded X, Y, 253.9500 mm, 87.5900 mm
+Info: 107 C61 UUID: [a19f97a2-0a39-482e-9340-8934eb3161fc], X, Y: 247.8250 mm, 87.6300 mm, Rounded X, Y, 247.8200 mm, 87.6300 mm
+Info: 108 R73 UUID: [34f28257-075d-435a-96ca-7744eb05a464], X, Y: 181.3600 mm, 88.2100 mm, Rounded X, Y, 181.3600 mm, 88.2100 mm
+Info: 109 U23 UUID: [8e489fcd-25ef-4282-b196-fb724bde004c], X, Y: 164.1900 mm, 92.6300 mm, Rounded X, Y, 164.1900 mm, 92.6300 mm
+Info: 110 R60 UUID: [9c9165ac-716c-46cf-b69d-ea14b7bfe4bd], X, Y: 181.3900 mm, 97.0800 mm, Rounded X, Y, 181.3900 mm, 97.0800 mm
+Info: 111 C112 UUID: [b3a4c3e6-681c-43ad-9343-5eb646d4f70f], X, Y: 258.7750 mm, 97.8500 mm, Rounded X, Y, 258.7700 mm, 97.8500 mm
+Info: 112 C111 UUID: [10518b7c-2576-4335-ac7a-e38c726bca78], X, Y: 256.9750 mm, 97.8500 mm, Rounded X, Y, 256.9700 mm, 97.8500 mm
+Info: 113 C78 UUID: [fc19c4f7-798f-46df-b8b4-fb10653c19a8], X, Y: 255.3750 mm, 97.8500 mm, Rounded X, Y, 255.3700 mm, 97.8500 mm
+Info: 114 C83 UUID: [871747f9-d1f0-4f8a-8771-37d32db82351], X, Y: 252.5750 mm, 97.8500 mm, Rounded X, Y, 252.5700 mm, 97.8500 mm
+Info: 115 C113 UUID: [4e6f3825-9341-4cd0-9ea1-c2c481507c6b], X, Y: 250.7400 mm, 97.8800 mm, Rounded X, Y, 250.7400 mm, 97.8800 mm
+Info: 116 C114 UUID: [731aa020-86a5-4998-b1e5-55071e2cfa29], X, Y: 249.1300 mm, 97.8900 mm, Rounded X, Y, 249.1300 mm, 97.8900 mm
+Info: 117 C75 UUID: [bf49afb2-9e6b-4a9b-b75c-195b8a5a194a], X, Y: 258.7500 mm, 101.7000 mm, Rounded X, Y, 258.7500 mm, 101.7000 mm
+Info: 118 C68 UUID: [bd7604c5-87b8-4bd9-9e37-649c4b42cdae], X, Y: 246.0750 mm, 102.5250 mm, Rounded X, Y, 246.0700 mm, 102.5200 mm
+Info: 119 R45 UUID: [2d77b8ea-03f8-43d2-b213-4da4a284dabd], X, Y: 258.7750 mm, 105.2750 mm, Rounded X, Y, 258.7700 mm, 105.2700 mm
+Info: 120 D3 UUID: [a303aa19-a577-4ba5-9a36-66e085dc6db1], X, Y: 248.8000 mm, 105.3250 mm, Rounded X, Y, 248.8000 mm, 105.3200 mm
+Info: 121 C76 UUID: [197e5499-bc56-4f90-8c4c-8d2aa56a1aa0], X, Y: 160.1825 mm, 105.3450 mm, Rounded X, Y, 160.1800 mm, 105.3400 mm
+Info: 122 C127 UUID: [8bc0ea16-b07c-4e84-a974-b827d275f5a0], X, Y: 167.8500 mm, 105.3500 mm, Rounded X, Y, 167.8500 mm, 105.3500 mm
+Info: 123 R68 UUID: [e3e1f600-a238-4847-b7c3-b379d7babea4], X, Y: 166.3100 mm, 105.3500 mm, Rounded X, Y, 166.3100 mm, 105.3500 mm
+Info: 124 C124 UUID: [ea8b2af2-85c3-459f-a29f-9c21bd1553b7], X, Y: 164.7700 mm, 105.3500 mm, Rounded X, Y, 164.7700 mm, 105.3500 mm
+Info: 125 C123 UUID: [a40b12bd-43c8-462e-9491-b7479b20666d], X, Y: 163.2400 mm, 105.3500 mm, Rounded X, Y, 163.2400 mm, 105.3500 mm
+Info: 126 C126 UUID: [034b6d13-24cd-4c7b-893b-aff3f8314eec], X, Y: 161.7125 mm, 105.3550 mm, Rounded X, Y, 161.7100 mm, 105.3500 mm
+Info: 127 R62 UUID: [882d58ad-dfac-4c09-8126-2d39727f4f25], X, Y: 174.1600 mm, 105.3800 mm, Rounded X, Y, 174.1600 mm, 105.3800 mm
+Info: 128 R44 UUID: [898fec02-e9f0-4f68-86df-85569242df45], X, Y: 246.0750 mm, 106.6250 mm, Rounded X, Y, 246.0700 mm, 106.6200 mm
+Info: 129 U8 UUID: [b50be23b-ce1c-4528-8206-bf645533c790], X, Y: 253.9750 mm, 106.8500 mm, Rounded X, Y, 253.9700 mm, 106.8500 mm
+Info: 130 R46 UUID: [a9e2d506-51b2-477d-b263-0ea3a860e4c6], X, Y: 268.6000 mm, 106.9250 mm, Rounded X, Y, 268.6000 mm, 106.9200 mm
+Info: 131 R43 UUID: [10ff95ff-472d-4d51-9562-3d4d318a9c29], X, Y: 246.0750 mm, 108.1250 mm, Rounded X, Y, 246.0700 mm, 108.1200 mm
+Info: 132 D1 UUID: [24954364-08ca-480b-a17f-cef42a647d11], X, Y: 263.8500 mm, 109.2250 mm, Rounded X, Y, 263.8500 mm, 109.2200 mm
+Info: 133 C70 UUID: [5b89adf9-9731-4f8a-b8c1-e82e57f2cb4a], X, Y: 246.0750 mm, 109.6250 mm, Rounded X, Y, 246.0700 mm, 109.6200 mm
+Info: 134 S1 UUID: [48bfdc01-b0cd-4f5b-bb75-2b3ad4a6ff9f], X, Y: 271.9100 mm, 110.5800 mm, Rounded X, Y, 271.9100 mm, 110.5800 mm
+Info: 135 C99 UUID: [6bac4868-49c8-4e96-84cf-d7d4421e10a0], X, Y: 220.9500 mm, 111.4750 mm, Rounded X, Y, 220.9500 mm, 111.4700 mm
+Info: 136 C97 UUID: [3f7c91bb-b0a0-416f-ac44-126083cffde2], X, Y: 219.4500 mm, 111.4750 mm, Rounded X, Y, 219.4500 mm, 111.4700 mm
+Info: 137 C100 UUID: [006fd919-1196-470f-a248-f93a156f42f7], X, Y: 239.4000 mm, 111.5000 mm, Rounded X, Y, 239.4000 mm, 111.5000 mm
+Info: 138 C98 UUID: [5f0202a2-1de2-4919-9405-f4d2a479cf56], X, Y: 237.9100 mm, 111.5000 mm, Rounded X, Y, 237.9100 mm, 111.5000 mm
+Info: 139 C107 UUID: [456aeb2b-6826-4420-b620-80c6dc9e071b], X, Y: 190.4000 mm, 111.5000 mm, Rounded X, Y, 190.4000 mm, 111.5000 mm
+Info: 140 C105 UUID: [479b4504-5605-4082-919a-baca47d55419], X, Y: 188.9000 mm, 111.5000 mm, Rounded X, Y, 188.9000 mm, 111.5000 mm
+Info: 141 C101 UUID: [66ae25e1-8f78-438d-aa96-ca55ba5a4ab3], X, Y: 209.3000 mm, 111.5250 mm, Rounded X, Y, 209.3000 mm, 111.5200 mm
+Info: 142 C103 UUID: [8c1789b1-5d02-4b6f-aa73-a8487ba46dee], X, Y: 207.8200 mm, 111.5250 mm, Rounded X, Y, 207.8200 mm, 111.5200 mm
+Info: 143 P5 UUID: [0210975c-d641-4efc-aed9-abd36f5b2ca2], X, Y: 243.0751 mm, 118.7000 mm, Rounded X, Y, 243.0800 mm, 118.7000 mm
+Info: 144 P6 UUID: [83e8e0fb-2eed-4111-9b7a-27ebbdb49fb5], X, Y: 219.2901 mm, 118.7000 mm, Rounded X, Y, 219.2900 mm, 118.7000 mm
+Info: 145 P7 UUID: [65d166da-6e54-4899-bf21-78b437ce2ab8], X, Y: 195.4676 mm, 118.7000 mm, Rounded X, Y, 195.4700 mm, 118.7000 mm
+Info: 146 P8 UUID: [95e88e77-ee7d-4a55-b131-b751971338ed], X, Y: 171.5751 mm, 118.7000 mm, Rounded X, Y, 171.5800 mm, 118.7000 mm
+Info: 147 H2 UUID: [fe5f3cf4-30f5-4ecf-a7da-43bdebe2cf47], X, Y: 270.2002 mm, 121.6400 mm, Rounded X, Y, 270.2000 mm, 121.6400 mm
+Info: 148 H1 UUID: [395c3b9a-2c81-4f50-bfcd-a053be469ada], X, Y: 162.2002 mm, 121.6400 mm, Rounded X, Y, 162.2000 mm, 121.6400 mm
+Info: 
+Info: 
+Info: Back Footprints
+Info: *********** Sort on Footprint Coordinates ***********
+Info: Sort Code 1
+Info: 1 Q2 UUID: [7229c1f7-ce77-4976-8be7-27a657ec73d2], X, Y: 163.1592 mm, 41.5988 mm, Rounded X, Y, 163.1600 mm, 41.6000 mm
+Info: 2 Q1 UUID: [30fecc18-0e4a-4a8b-b8b0-44c7c2196f7b], X, Y: 170.0945 mm, 41.6000 mm, Rounded X, Y, 170.0900 mm, 41.6000 mm
+Info: 3 U22 UUID: [050e1bcb-3371-4602-b469-575177afa360], X, Y: 192.0000 mm, 41.6000 mm, Rounded X, Y, 192.0000 mm, 41.6000 mm
+Info: 4 U20 UUID: [c18eab44-b32e-4646-aba6-319c7960505b], X, Y: 210.5000 mm, 41.7000 mm, Rounded X, Y, 210.5000 mm, 41.7000 mm
+Info: 5 U18 UUID: [cd526938-1c37-4fa0-a92d-cff8ee4bd1f4], X, Y: 221.5000 mm, 41.7000 mm, Rounded X, Y, 221.5000 mm, 41.7000 mm
+Info: 6 U16 UUID: [89f3bab7-ff7c-4c47-a530-197c66f36b2d], X, Y: 240.5000 mm, 41.7000 mm, Rounded X, Y, 240.5000 mm, 41.7000 mm
+Info: 7 C110 UUID: [03e42c5d-8b0c-4085-a1e8-a37b52982fbc], X, Y: 249.8148 mm, 43.6967 mm, Rounded X, Y, 249.8100 mm, 43.7000 mm
+Info: 8 C15 UUID: [ab44f634-ee67-4827-abd4-6fd7dd2e327f], X, Y: 252.8948 mm, 43.6967 mm, Rounded X, Y, 252.8900 mm, 43.7000 mm
+Info: 9 P12 UUID: [be7cb87d-abfc-4a7d-8c35-12d8b56fcde4], X, Y: 270.1900 mm, 44.3400 mm, Rounded X, Y, 270.1900 mm, 44.3400 mm
+Info: 10 R57 UUID: [b0ca33c9-4d0c-4b03-88eb-a8d18a79b7de], X, Y: 161.8000 mm, 45.0000 mm, Rounded X, Y, 161.8000 mm, 45.0000 mm
+Info: 11 R58 UUID: [9980ec04-e9a0-43dc-a3f1-5f8bc796ad5b], X, Y: 163.4000 mm, 45.0000 mm, Rounded X, Y, 163.4000 mm, 45.0000 mm
+Info: 12 R59 UUID: [17009834-6e4e-4fd2-8ac3-a243e8945980], X, Y: 165.0000 mm, 45.0000 mm, Rounded X, Y, 165.0000 mm, 45.0000 mm
+Info: 13 R49 UUID: [c1f2104a-f60c-4faa-9ee3-e336583210a3], X, Y: 166.8500 mm, 45.0000 mm, Rounded X, Y, 166.8500 mm, 45.0000 mm
+Info: 14 R54 UUID: [a57788f3-d21e-43ec-96a4-4db259bb954d], X, Y: 168.7000 mm, 45.0000 mm, Rounded X, Y, 168.7000 mm, 45.0000 mm
+Info: 15 R55 UUID: [e5a074a7-ff93-4fde-b2c1-47d7de951c20], X, Y: 170.3000 mm, 45.0000 mm, Rounded X, Y, 170.3000 mm, 45.0000 mm
+Info: 16 R56 UUID: [59bd1d4b-a234-43d7-91a4-3c8593a3bf5e], X, Y: 171.9000 mm, 45.0000 mm, Rounded X, Y, 171.9000 mm, 45.0000 mm
+Info: 17 C109 UUID: [7dfd4a95-0f0c-4c6b-b96e-75361dc62b3c], X, Y: 249.8148 mm, 45.2367 mm, Rounded X, Y, 249.8100 mm, 45.2400 mm
+Info: 18 C11 UUID: [049301c4-836c-42b1-a93c-28aae55408d5], X, Y: 252.9048 mm, 45.2367 mm, Rounded X, Y, 252.9000 mm, 45.2400 mm
+Info: 19 R9 UUID: [ddc9600e-c189-4ae7-a3a6-1a827ed62c65], X, Y: 252.9200 mm, 47.5603 mm, Rounded X, Y, 252.9200 mm, 47.5600 mm
+Info: 20 C16 UUID: [f8b4dc17-7e6f-447d-8bdd-6c8de11b4e98], X, Y: 252.9200 mm, 49.0603 mm, Rounded X, Y, 252.9200 mm, 49.0600 mm
+Info: 21 C20 UUID: [3903a7de-2080-4916-aaae-f6130c5d3cb4], X, Y: 252.9200 mm, 50.5950 mm, Rounded X, Y, 252.9200 mm, 50.5900 mm
+Info: 22 C19 UUID: [39bd9ff3-0c14-4750-8a58-22cb13cea02b], X, Y: 252.9200 mm, 52.0950 mm, Rounded X, Y, 252.9200 mm, 52.0900 mm
+Info: 23 C121 UUID: [5cff931d-c10b-49a5-bdc4-9d14b1c160c6], X, Y: 254.4298 mm, 55.3267 mm, Rounded X, Y, 254.4300 mm, 55.3300 mm
+Info: 24 C22 UUID: [ee9cbc31-a358-4ecc-bc3d-8e179228e60d], X, Y: 251.3898 mm, 55.3367 mm, Rounded X, Y, 251.3900 mm, 55.3400 mm
+Info: 25 C10 UUID: [f73535b3-97a4-4a32-a960-648bbaab0a5c], X, Y: 251.3898 mm, 56.8367 mm, Rounded X, Y, 251.3900 mm, 56.8400 mm
+Info: 26 C122 UUID: [46f3186b-9cb4-4ee4-aef3-fed529b61380], X, Y: 254.4298 mm, 56.8367 mm, Rounded X, Y, 254.4300 mm, 56.8400 mm
+Info: 27 P10 UUID: [ec5d0170-2e7d-4ac1-9c32-53fadbc043c3], X, Y: 168.5600 mm, 57.0440 mm, Rounded X, Y, 168.5600 mm, 57.0400 mm
+Info: 28 C45 UUID: [b858d4fc-1ae7-42f9-b7ac-881b2e757188], X, Y: 248.3198 mm, 58.3847 mm, Rounded X, Y, 248.3200 mm, 58.3800 mm
+Info: 29 R26 UUID: [3a0f3436-5902-44bc-af79-bc7e4335f373], X, Y: 251.3902 mm, 58.3833 mm, Rounded X, Y, 251.3900 mm, 58.3800 mm
+Info: 30 C37 UUID: [50fdd1d1-0b1b-47f2-bd51-fb5c8551a03d], X, Y: 254.4252 mm, 58.3833 mm, Rounded X, Y, 254.4300 mm, 58.3800 mm
+Info: 31 C33 UUID: [a5aafbc4-6857-4b48-8cc9-4a6ab1bbc515], X, Y: 257.4848 mm, 58.3967 mm, Rounded X, Y, 257.4800 mm, 58.4000 mm
+Info: 32 R27 UUID: [e2a9378b-ff6a-4a83-85d5-d0135d33860c], X, Y: 251.3952 mm, 59.8833 mm, Rounded X, Y, 251.4000 mm, 59.8800 mm
+Info: 33 C38 UUID: [54fb6744-6c33-4a2c-b97b-8eea48071cb5], X, Y: 254.4252 mm, 59.8833 mm, Rounded X, Y, 254.4300 mm, 59.8800 mm
+Info: 34 C39 UUID: [bcd20e3b-b32f-4f3f-8683-84c74b424a31], X, Y: 257.4748 mm, 59.8867 mm, Rounded X, Y, 257.4700 mm, 59.8900 mm
+Info: 35 C47 UUID: [31db70a3-321b-4b2d-9be7-cba2683b6363], X, Y: 248.3168 mm, 59.8967 mm, Rounded X, Y, 248.3200 mm, 59.9000 mm
+Info: 36 P14 UUID: [050031de-379a-4826-b614-b1ad07b7f6ac], X, Y: 270.8900 mm, 60.1365 mm, Rounded X, Y, 270.8900 mm, 60.1400 mm
+Info: 37 C14 UUID: [e2b7a84e-676c-4bba-944f-4f2f88f47a73], X, Y: 251.4048 mm, 61.4267 mm, Rounded X, Y, 251.4000 mm, 61.4300 mm
+Info: 38 C120 UUID: [0a84a363-d903-4d0f-8b6f-94f535064747], X, Y: 254.4298 mm, 61.4267 mm, Rounded X, Y, 254.4300 mm, 61.4300 mm
+Info: 39 C24 UUID: [5de24c5a-0d92-4307-b912-89667a998851], X, Y: 251.4048 mm, 62.9267 mm, Rounded X, Y, 251.4000 mm, 62.9300 mm
+Info: 40 C119 UUID: [7fd84043-c517-481b-bdbf-37d6473c4a16], X, Y: 254.4298 mm, 62.9267 mm, Rounded X, Y, 254.4300 mm, 62.9300 mm
+Info: 41 C3 UUID: [ed96ccc4-aab8-44f5-a1d3-3647cc28df2b], X, Y: 269.3945 mm, 66.8345 mm, Rounded X, Y, 269.3900 mm, 66.8300 mm
+Info: 42 C7 UUID: [5496db35-6ef0-4639-a828-70c5c26991aa], X, Y: 264.6445 mm, 67.5595 mm, Rounded X, Y, 264.6400 mm, 67.5600 mm
+Info: 43 C125 UUID: [989b15eb-2f2c-42ac-9b7c-a70612fe0c20], X, Y: 174.7400 mm, 68.2400 mm, Rounded X, Y, 174.7400 mm, 68.2400 mm
+Info: 44 C5 UUID: [392aa572-63f2-4317-8b79-89485949724a], X, Y: 269.3945 mm, 68.3345 mm, Rounded X, Y, 269.3900 mm, 68.3300 mm
+Info: 45 R63 UUID: [bc3c8697-07da-4b1b-ad16-618c560fa37a], X, Y: 164.7400 mm, 68.4100 mm, Rounded X, Y, 164.7400 mm, 68.4100 mm
+Info: 46 C44 UUID: [55507068-597a-4c50-bc81-2b343b4ef596], X, Y: 255.8478 mm, 68.9222 mm, Rounded X, Y, 255.8500 mm, 68.9200 mm
+Info: 47 C46 UUID: [f81f1620-d48f-402f-9ed9-161e797ba741], X, Y: 257.4078 mm, 68.9172 mm, Rounded X, Y, 257.4100 mm, 68.9200 mm
+Info: 48 C9 UUID: [4cef2cbc-20a6-4f56-a97a-e50f88857f1b], X, Y: 264.6745 mm, 69.4678 mm, Rounded X, Y, 264.6700 mm, 69.4700 mm
+Info: 49 C85 UUID: [8a1972e6-f9a8-44a3-9e4b-757b6644815c], X, Y: 174.7450 mm, 69.7800 mm, Rounded X, Y, 174.7400 mm, 69.7800 mm
+Info: 50 P15 UUID: [5d4950f4-94a1-4ab0-b1e8-e2a42c64c274], X, Y: 160.4600 mm, 70.7400 mm, Rounded X, Y, 160.4600 mm, 70.7400 mm
+Info: 51 D4 UUID: [1e6167bc-7806-4ced-a5f6-e99b2283d242], X, Y: 164.8600 mm, 70.9300 mm, Rounded X, Y, 164.8600 mm, 70.9300 mm
+Info: 52 C54 UUID: [40ddb19d-527e-460f-8d1d-e7faa8b277a1], X, Y: 247.4350 mm, 70.9632 mm, Rounded X, Y, 247.4300 mm, 70.9600 mm
+Info: 53 R24 UUID: [a2a2d179-1175-4308-97c7-fa03d9127053], X, Y: 257.4050 mm, 71.9450 mm, Rounded X, Y, 257.4000 mm, 71.9400 mm
+Info: 54 C21 UUID: [48e97c7a-98fb-4b35-bf23-b7ea8c85fac9], X, Y: 258.9078 mm, 71.9422 mm, Rounded X, Y, 258.9100 mm, 71.9400 mm
+Info: 55 C23 UUID: [afc90274-01fc-4028-8959-5f230f4849e8], X, Y: 260.4078 mm, 71.9372 mm, Rounded X, Y, 260.4100 mm, 71.9400 mm
+Info: 56 C8 UUID: [0aa32a1a-9e2c-4456-bd4a-5561b9c2c8d2], X, Y: 252.7778 mm, 71.9472 mm, Rounded X, Y, 252.7800 mm, 71.9500 mm
+Info: 57 C12 UUID: [2e30bc3b-cc4a-44d0-976b-0f64614a5a2e], X, Y: 254.2878 mm, 71.9472 mm, Rounded X, Y, 254.2900 mm, 71.9500 mm
+Info: 58 R25 UUID: [c10bb1c8-a745-4d9e-94df-30c005a5e76b], X, Y: 255.8450 mm, 71.9500 mm, Rounded X, Y, 255.8400 mm, 71.9500 mm
+Info: 59 C56 UUID: [6334eb73-f858-49e0-af73-47361ff9d93f], X, Y: 247.4250 mm, 72.4793 mm, Rounded X, Y, 247.4200 mm, 72.4800 mm
+Info: 60 R11 UUID: [cbbe08ae-6596-485b-98a3-241e9911a242], X, Y: 264.2645 mm, 72.5595 mm, Rounded X, Y, 264.2600 mm, 72.5600 mm
+Info: 61 R10 UUID: [54610e84-ea16-4391-9601-61ffbcf0932a], X, Y: 267.3745 mm, 72.5595 mm, Rounded X, Y, 267.3700 mm, 72.5600 mm
+Info: 62 R13 UUID: [480c40d1-0b68-4f35-95b9-a10a108eb864], X, Y: 268.8695 mm, 74.0745 mm, Rounded X, Y, 268.8700 mm, 74.0700 mm
+Info: 63 R14 UUID: [d6967e59-ac81-4c74-983a-85444f18308d], X, Y: 262.8045 mm, 74.0845 mm, Rounded X, Y, 262.8000 mm, 74.0800 mm
+Info: 64 C27 UUID: [88129fd6-6252-4341-9a45-cdaa28cd6452], X, Y: 265.8372 mm, 74.0772 mm, Rounded X, Y, 265.8400 mm, 74.0800 mm
+Info: 65 C58 UUID: [011c59c5-0c46-4eac-8687-1cafa03e01eb], X, Y: 247.4000 mm, 74.1043 mm, Rounded X, Y, 247.4000 mm, 74.1000 mm
+Info: 66 C34 UUID: [35ff2996-b5d4-4622-9c88-75b7625d77bb], X, Y: 257.4050 mm, 74.9450 mm, Rounded X, Y, 257.4000 mm, 74.9400 mm
+Info: 67 C118 UUID: [98c13ee8-4310-4a21-8db5-ff993a9f4ac1], X, Y: 252.7778 mm, 74.9472 mm, Rounded X, Y, 252.7800 mm, 74.9500 mm
+Info: 68 C117 UUID: [a56c3097-6f1e-4290-85b5-70a21926c298], X, Y: 254.2878 mm, 74.9522 mm, Rounded X, Y, 254.2900 mm, 74.9500 mm
+Info: 69 C35 UUID: [d4aa73aa-daa5-4297-91ba-12d88b780096], X, Y: 255.8450 mm, 74.9500 mm, Rounded X, Y, 255.8500 mm, 74.9500 mm
+Info: 70 C116 UUID: [6579343a-d450-4ba5-8b44-6cb016f1ef98], X, Y: 258.9178 mm, 74.9522 mm, Rounded X, Y, 258.9200 mm, 74.9500 mm
+Info: 71 C115 UUID: [f6b4802b-cd30-434d-941b-8088132ba7da], X, Y: 260.4078 mm, 74.9572 mm, Rounded X, Y, 260.4100 mm, 74.9600 mm
+Info: 72 C59 UUID: [d16b239e-8706-46a0-9ecf-f607e7faf56c], X, Y: 242.0500 mm, 75.6543 mm, Rounded X, Y, 242.0500 mm, 75.6500 mm
+Info: 73 C57 UUID: [30db28b3-50af-4e57-8044-facdff9db157], X, Y: 247.4000 mm, 75.6543 mm, Rounded X, Y, 247.4000 mm, 75.6500 mm
+Info: 74 C60 UUID: [1aca5681-7aa6-4eae-8c99-50777c4894db], X, Y: 242.0500 mm, 77.2043 mm, Rounded X, Y, 242.0500 mm, 77.2000 mm
+Info: 75 C55 UUID: [64789ba1-d945-4e19-bb37-73597674a88f], X, Y: 247.4000 mm, 77.2043 mm, Rounded X, Y, 247.4000 mm, 77.2000 mm
+Info: 76 C32 UUID: [14a53fb3-99f8-489f-988a-c0d3d55cb28b], X, Y: 255.8478 mm, 77.9872 mm, Rounded X, Y, 255.8500 mm, 77.9900 mm
+Info: 77 C36 UUID: [f15d8941-e5d2-4ee2-8736-35d1b2f31cb2], X, Y: 257.3878 mm, 77.9872 mm, Rounded X, Y, 257.3900 mm, 77.9900 mm
+Info: 78 C82 UUID: [6ef30bfa-4d68-4507-b1f2-4bea123a0a5a], X, Y: 269.2950 mm, 79.6050 mm, Rounded X, Y, 269.2900 mm, 79.6000 mm
+Info: 79 C84 UUID: [a446a4bd-c0df-4521-8cd9-9cb94f0fa056], X, Y: 270.8550 mm, 79.6050 mm, Rounded X, Y, 270.8500 mm, 79.6000 mm
+Info: 80 C88 UUID: [8463b486-db9d-4652-a5f6-722ed7121eba], X, Y: 262.7550 mm, 81.7700 mm, Rounded X, Y, 262.7500 mm, 81.7700 mm
+Info: 81 C80 UUID: [4c3c566b-5d3a-42f0-a0f5-fa1979fedb7f], X, Y: 269.2900 mm, 82.6750 mm, Rounded X, Y, 269.2900 mm, 82.6700 mm
+Info: 82 C81 UUID: [2325ae8a-9804-4d09-ac61-9ae66fe9b83e], X, Y: 270.8650 mm, 82.6750 mm, Rounded X, Y, 270.8600 mm, 82.6700 mm
+Info: 83 C89 UUID: [5f072146-6b82-489f-af77-0c9758aad44e], X, Y: 262.7550 mm, 83.3000 mm, Rounded X, Y, 262.7500 mm, 83.3000 mm
+Info: 84 R51 UUID: [d3d52359-4704-4c2a-a3da-5151eeeac1fc], X, Y: 259.7250 mm, 84.8247 mm, Rounded X, Y, 259.7200 mm, 84.8200 mm
+Info: 85 C90 UUID: [3f49c6aa-37d6-41fd-9675-601b58a2e473], X, Y: 262.7550 mm, 84.8250 mm, Rounded X, Y, 262.7500 mm, 84.8200 mm
+Info: 86 C87 UUID: [cf0b5247-64ae-477a-9c4c-9681fd84ab8b], X, Y: 265.8150 mm, 84.8200 mm, Rounded X, Y, 265.8100 mm, 84.8200 mm
+Info: 87 C79 UUID: [b17ae80e-a340-4fae-baa4-af3df43b9a92], X, Y: 269.2950 mm, 85.6650 mm, Rounded X, Y, 269.2900 mm, 85.6600 mm
+Info: 88 C77 UUID: [9976fec7-33ce-4dee-8290-4d3804dd5e30], X, Y: 270.8550 mm, 85.6650 mm, Rounded X, Y, 270.8500 mm, 85.6600 mm
+Info: 89 C86 UUID: [2b14adac-cca2-4896-8bab-3a1fc486090b], X, Y: 265.8150 mm, 86.3450 mm, Rounded X, Y, 265.8100 mm, 86.3400 mm
+Info: 90 R50 UUID: [ddaad275-5139-407c-8e36-15cf66ac78c7], X, Y: 262.7550 mm, 86.3600 mm, Rounded X, Y, 262.7500 mm, 86.3600 mm
+Info: 91 C67 UUID: [af6de374-1a94-4cad-b07a-19ae085d0789], X, Y: 251.9150 mm, 87.5800 mm, Rounded X, Y, 251.9100 mm, 87.5800 mm
+Info: 92 C69 UUID: [b4d3db8c-66ea-4e6c-a40f-011e0b2b021a], X, Y: 256.6650 mm, 87.5900 mm, Rounded X, Y, 256.6600 mm, 87.5900 mm
+Info: 93 C92 UUID: [71745492-fbdf-4764-ab22-c14f16e7d789], X, Y: 262.7550 mm, 87.8900 mm, Rounded X, Y, 262.7500 mm, 87.8900 mm
+Info: 94 C91 UUID: [6105f66b-49cc-4e83-8855-35e84d62db66], X, Y: 262.7550 mm, 89.4150 mm, Rounded X, Y, 262.7500 mm, 89.4100 mm
+Info: 95 D2 UUID: [32c6056e-b8fa-4c46-ad0c-09c0b4bb2de6], X, Y: 253.5350 mm, 90.2150 mm, Rounded X, Y, 253.5300 mm, 90.2100 mm
+Info: 96 P13 UUID: [62fae5db-aefd-49f4-bd23-c8258f8de2a8], X, Y: 266.3600 mm, 98.6300 mm, Rounded X, Y, 266.3600 mm, 98.6300 mm
+Info: 97 C62 UUID: [185e717d-cafc-477b-8a94-8dd03b893b98], X, Y: 246.0750 mm, 98.8200 mm, Rounded X, Y, 246.0700 mm, 98.8200 mm
+Info: 98 C66 UUID: [f1c13122-72ec-47d0-977a-e001c914b5f8], X, Y: 246.0750 mm, 100.3200 mm, Rounded X, Y, 246.0700 mm, 100.3200 mm
+Info: 99 R47 UUID: [da550156-2ca0-4ce6-aea6-e89b7600c8fc], X, Y: 252.2250 mm, 100.9500 mm, Rounded X, Y, 252.2200 mm, 100.9500 mm
+Info: 100 C64 UUID: [eccbf476-4db6-4dc1-8ec3-eb56c41e9f74], X, Y: 246.0750 mm, 101.8100 mm, Rounded X, Y, 246.0700 mm, 101.8100 mm
+Info: 101 R48 UUID: [9885ea21-53d6-4293-a125-4684aced693e], X, Y: 252.2250 mm, 102.5500 mm, Rounded X, Y, 252.2200 mm, 102.5500 mm
+Info: 102 D5 UUID: [98af2c1c-b6a7-4149-bfdf-bf548e98e423], X, Y: 255.1750 mm, 102.5880 mm, Rounded X, Y, 255.1700 mm, 102.5900 mm
+Info: 103 P11 UUID: [ca42bf9c-0096-433a-b851-e6986d406de4], X, Y: 261.3100 mm, 104.4900 mm, Rounded X, Y, 261.3100 mm, 104.4900 mm
+Info: 104 U7 UUID: [5dc85c26-8c89-40e3-b50e-35482bcb433a], X, Y: 246.1000 mm, 105.1350 mm, Rounded X, Y, 246.1000 mm, 105.1300 mm
+Info: 105 C72 UUID: [27181084-a42d-4a0a-8ead-00b229558e3c], X, Y: 246.0500 mm, 109.7200 mm, Rounded X, Y, 246.0500 mm, 109.7200 mm
+Info: 106 P9 UUID: [deb69fe6-822d-45f4-accb-86c7bc72f6a5], X, Y: 266.7100 mm, 110.8200 mm, Rounded X, Y, 266.7100 mm, 110.8200 mm
+Info: 107 C74 UUID: [0ea40afa-ad0b-4a97-8bed-5210c8e03f19], X, Y: 246.0500 mm, 111.2200 mm, Rounded X, Y, 246.0500 mm, 111.2200 mm
+Info: 108 U21 UUID: [a3bf3566-6d82-4a3a-93da-8f83a1066455], X, Y: 191.5000 mm, 111.3000 mm, Rounded X, Y, 191.5000 mm, 111.3000 mm
+Info: 109 U19 UUID: [9d45ff23-ab3f-461c-a7ae-58c53f71fe04], X, Y: 210.5000 mm, 111.3000 mm, Rounded X, Y, 210.5000 mm, 111.3000 mm
+Info: 110 U17 UUID: [1e6228d2-9c68-47f6-a7cc-da82c1324c88], X, Y: 222.0000 mm, 111.3000 mm, Rounded X, Y, 222.0000 mm, 111.3000 mm
+Info: 111 U15 UUID: [b2af789e-e071-4e79-97b3-14a5a62d7887], X, Y: 240.5000 mm, 111.3000 mm, Rounded X, Y, 240.5000 mm, 111.3000 mm
+Info: 
+Info: 
+Info: There are 10 types of reference designations
+Info: **********************************************************
+Info: H P R S U C D G*** Q FB 
+Info:     Change Array
+Info: ***********************
+Info: C1 -> C22   
+Info: C2 -> C18   
+Info: C3 -> C23   
+Info: C4 -> C10   
+Info: C5 -> C26   
+Info: C6 -> C9   
+Info: C7 -> C24   
+Info: C8 -> C34   
+Info: C9 -> C29   
+Info: C10 -> C11   
+Info: C11 -> C5   
+Info: C12 -> C35   
+Info: C13 -> C17   
+Info: C14 -> C19   
+Info: C15 -> C3   
+Info: C16 -> C6   
+Info: C17 -> C27   
+Info: C18 -> C26   
+Info: C19 -> C8   
+Info: C20 -> C7   
+Info: C21 -> C32   
+Info: C22 -> C10   
+Info: C23 -> C33   
+Info: C24 -> C21   
+Info: C25 -> C12   
+Info: C26 -> C13   
+Info: C27 -> C37   
+Info: C28 -> C28   
+Info: C29 -> C31   
+Info: C30 -> C11   
+Info: C31 -> C14   
+Info: C32 -> C49   
+Info: C33 -> C15   
+Info: C34 -> C39   
+Info: C35 -> C42   
+Info: C36 -> C50   
+Info: C37 -> C14   
+Info: C38 -> C16   
+Info: C39 -> C17   
+Info: C40 -> C23   
+Info: C41 -> C24   
+Info: C42 -> C16   
+Info: C43 -> C15   
+Info: C44 -> C27   
+Info: C45 -> C13   
+Info: C46 -> C28   
+Info: C47 -> C18   
+Info: C48 -> C30   
+Info: C49 -> C21   
+Info: C50 -> C32   
+Info: C51 -> C25   
+Info: C52 -> C19   
+Info: C53 -> C20   
+Info: C54 -> C31   
+Info: C55 -> C48   
+Info: C56 -> C36   
+Info: C57 -> C46   
+Info: C58 -> C38   
+Info: C59 -> C45   
+Info: C60 -> C47   
+Info: C61 -> C38   
+Info: C62 -> C66   
+Info: C63 -> C35   
+Info: C64 -> C68   
+Info: C65 -> C36   
+Info: C66 -> C67   
+Info: C67 -> C62   
+Info: C68 -> C46   
+Info: C69 -> C63   
+Info: C70 -> C52   
+Info: C71 -> C37   
+Info: C72 -> C69   
+Info: C73 -> C34   
+Info: C74 -> C70   
+Info: C75 -> C45   
+Info: C76 -> C47   
+Info: C77 -> C60   
+Info: C78 -> C41   
+Info: C79 -> C59   
+Info: C80 -> C54   
+Info: C81 -> C55   
+Info: C82 -> C51   
+Info: C83 -> C42   
+Info: C84 -> C52   
+Info: C85 -> C30   
+Info: C86 -> C61   
+Info: C87 -> C58   
+Info: C88 -> C53   
+Info: C89 -> C56   
+Info: C90 -> C57   
+Info: C91 -> C65   
+Info: C92 -> C64   
+Info: C93 -> C4   
+Info: C94 -> C2   
+Info: C95 -> C3   
+Info: C96 -> C1   
+Info: C97 -> C54   
+Info: C98 -> C56   
+Info: C99 -> C53   
+Info: C100 -> C55   
+Info: C101 -> C59   
+Info: C102 -> C6   
+Info: C103 -> C60   
+Info: C104 -> C5   
+Info: C105 -> C58   
+Info: C106 -> C7   
+Info: C107 -> C57   
+Info: C108 -> C8   
+Info: C109 -> C4   
+Info: C110 -> C2   
+Info: C111 -> C40   
+Info: C112 -> C39   
+Info: C113 -> C43   
+Info: C114 -> C44   
+Info: C115 -> C44   
+Info: C116 -> C43   
+Info: C117 -> C41   
+Info: C118 -> C40   
+Info: C119 -> C22   
+Info: C120 -> C20   
+Info: C121 -> C9   
+Info: C122 -> C12   
+Info: C123 -> C50   
+Info: C124 -> C49   
+Info: C125 -> C25   
+Info: C126 -> C51   
+Info: C127 -> C48   
+Info: C128 -> C33   
+Info: C129 -> C29   
+Info: D1 -> D5   
+Info: D2 -> D3   
+Info: D3 -> D4   
+Info: D4 -> D2   
+Info: D5 -> D4   
+Info: D6 -> D2   
+Info: D7 -> D1   
+Info: D8 -> D3   
+Info: FB1 -> FB1   
+Info: G*** -> G***2   
+Info: G*** -> G***1   
+Info: H1 -> H1  Excluded  will be ignored
+Info: H2 -> H2  Excluded  will be ignored
+Info: H3 -> H3  Excluded  will be ignored
+Info: H4 -> H4  Excluded  will be ignored
+Info: P1 -> P1  Excluded  will be ignored
+Info: P2 -> P2  Excluded  will be ignored
+Info: P3 -> P3  Excluded  will be ignored
+Info: P4 -> P4  Excluded  will be ignored
+Info: P5 -> P5  Excluded  will be ignored
+Info: P6 -> P6  Excluded  will be ignored
+Info: P7 -> P7  Excluded  will be ignored
+Info: P8 -> P8  Excluded  will be ignored
+Info: P9 -> P9  Excluded  will be ignored
+Info: P10 -> P10   
+Info: P11 -> P11  Excluded  will be ignored
+Info: P12 -> P12  Excluded  will be ignored
+Info: P13 -> P13  Excluded  will be ignored
+Info: P14 -> P14   
+Info: P15 -> P15   
+Info: Q1 -> Q3   
+Info: Q2 -> Q2   
+Info: Q3 -> Q1   
+Info: Q4 -> Q2   
+Info: R1 -> R3   
+Info: R2 -> R2   
+Info: R3 -> R19   
+Info: R4 -> R16   
+Info: R5 -> R4   
+Info: R6 -> R5   
+Info: R7 -> R7   
+Info: R8 -> R6   
+Info: R9 -> R9   
+Info: R10 -> R16   
+Info: R11 -> R15   
+Info: R12 -> R8   
+Info: R13 -> R17   
+Info: R14 -> R18   
+Info: R15 -> R9   
+Info: R16 -> R34   
+Info: R17 -> R33   
+Info: R18 -> R32   
+Info: R19 -> R35   
+Info: R20 -> R10   
+Info: R21 -> R11   
+Info: R22 -> R13   
+Info: R23 -> R12   
+Info: R24 -> R13   
+Info: R25 -> R14   
+Info: R26 -> R10   
+Info: R27 -> R11   
+Info: R28 -> R20   
+Info: R29 -> R21   
+Info: R30 -> R15   
+Info: R31 -> R14   
+Info: R32 -> R30   
+Info: R33 -> R26   
+Info: R34 -> R18   
+Info: R35 -> R17   
+Info: R37 -> R29   
+Info: R38 -> R31   
+Info: R41 -> R42   
+Info: R42 -> R41   
+Info: R43 -> R50   
+Info: R44 -> R48   
+Info: R45 -> R45   
+Info: R46 -> R49   
+Info: R47 -> R21   
+Info: R48 -> R22   
+Info: R49 -> R5   
+Info: R50 -> R20   
+Info: R51 -> R19   
+Info: R52 -> R40   
+Info: R53 -> R39   
+Info: R54 -> R6   
+Info: R55 -> R7   
+Info: R56 -> R8   
+Info: R57 -> R2   
+Info: R58 -> R3   
+Info: R59 -> R4   
+Info: R60 -> R44   
+Info: R61 -> R36   
+Info: R62 -> R47   
+Info: R63 -> R12   
+Info: R64 -> R25   
+Info: R65 -> R22   
+Info: R66 -> R23   
+Info: R67 -> R24   
+Info: R68 -> R46   
+Info: R69 -> R37   
+Info: R70 -> R27   
+Info: R71 -> R28   
+Info: R72 -> R38   
+Info: R73 -> R43   
+Info: R74 -> R74  Excluded  will be ignored
+Info: R75 -> R75  Excluded  will be ignored
+Info: S1 -> S1  Excluded  will be ignored
+Info: U1 -> U4   
+Info: U2 -> U2   
+Info: U3 -> U5   
+Info: U4 -> U3   
+Info: U5 -> U6   
+Info: U6 -> U13   
+Info: U7 -> U4   
+Info: U8 -> U17   
+Info: U9 -> U9   
+Info: U10 -> U12   
+Info: U11 -> U10   
+Info: U12 -> U11   
+Info: U13 -> U8   
+Info: U15 -> U15  Excluded  will be ignored
+Info: U16 -> U16  Excluded  will be ignored
+Info: U17 -> U6   
+Info: U18 -> U3   
+Info: U19 -> U5   
+Info: U20 -> U2   
+Info: U21 -> U21  Excluded  will be ignored
+Info: U22 -> U22  Excluded  will be ignored
+Info: U23 -> U14   
+Info: U24 -> U7   
+Info: 
+Info: U13 -> U8   
+Info: U15 -> U15  Excluded  will be ignored
+Info: U16 -> U16  Excluded  will be ignored
+Info: U17 -> U6   
+Info: U18 -> U3   
+Info: U19 -> U5   
+Info: U20 -> U2   
+Info: U21 -> U21  Excluded  will be ignored
+Info: U22 -> U22  Excluded  will be ignored
+Info: U23 -> U14   
+Info: U24 -> U7   
+Info: 
+Info: 
+Info: Only selected footprints will be reannotated.
+Info: Front footprints will start at 1
+Info: Back footprints will start at 1.
+Info: Prior to sorting by footprint location, the coordinates of which will be rounded to a 0.0100 mm, 0.0100 mm grid.
+Info: 
+Info: 
+Info: Front Footprints
+Info: *********** Sort on Footprint Coordinates ***********
+Info: Sort Code 1
+Info: 1 H4 UUID: [5ef39d40-b55b-4409-b36c-55ace9773fcc], X, Y: 270.2001 mm, 31.4900 mm, Rounded X, Y, 270.2000 mm, 31.4900 mm
+Info: 2 H3 UUID: [7f6b7f0f-1088-4a6f-96c7-380cabd2f233], X, Y: 162.2002 mm, 31.4900 mm, Rounded X, Y, 162.2000 mm, 31.4900 mm
+Info: 3 P1 UUID: [6f78a790-197d-4599-be1c-a15c64767265], X, Y: 260.8551 mm, 34.3800 mm, Rounded X, Y, 260.8600 mm, 34.3800 mm
+Info: 4 P2 UUID: [7a461615-ffd7-4d30-9663-87001a941793], X, Y: 237.0701 mm, 34.3800 mm, Rounded X, Y, 237.0700 mm, 34.3800 mm
+Info: 5 P3 UUID: [b7c12510-6d3f-4c6a-94f6-3d0dc28c4cde], X, Y: 213.2476 mm, 34.3800 mm, Rounded X, Y, 213.2500 mm, 34.3800 mm
+Info: 6 P4 UUID: [4b9d0df7-170f-4f7f-a033-8b28d6827d94], X, Y: 189.3551 mm, 34.3800 mm, Rounded X, Y, 189.3600 mm, 34.3800 mm
+Info: 7 R74 UUID: [192819fe-81a5-48ce-b989-7daec683b7d6], X, Y: 285.6400 mm, 38.6100 mm, Rounded X, Y, 285.6400 mm, 38.6100 mm
+Info: 8 R75 UUID: [aceaaa9f-2b43-44a9-b572-54237d9b5ddd], X, Y: 284.1000 mm, 38.6100 mm, Rounded X, Y, 284.1000 mm, 38.6100 mm
+Info: 9 C96 UUID: [d31a0397-f6ec-4a75-b0f9-c2d860a3d8c2], X, Y: 243.1000 mm, 41.3000 mm, Rounded X, Y, 243.1000 mm, 41.3000 mm
+Info: 10 C94 UUID: [c2bd5aec-4e19-4a4d-851d-8b688b552ec4], X, Y: 241.6000 mm, 41.3000 mm, Rounded X, Y, 241.6000 mm, 41.3000 mm
+Info: 11 C95 UUID: [f7d8199e-b9d8-48f1-bcea-ccafea0f0110], X, Y: 224.1000 mm, 41.5000 mm, Rounded X, Y, 224.1000 mm, 41.5000 mm
+Info: 12 C93 UUID: [2ff3868e-4557-4a7c-8d10-9de1767db7a0], X, Y: 222.6000 mm, 41.5000 mm, Rounded X, Y, 222.6000 mm, 41.5000 mm
+Info: 13 C104 UUID: [77131fb7-b846-4782-86b5-000abba21fb8], X, Y: 213.1000 mm, 41.5000 mm, Rounded X, Y, 213.1000 mm, 41.5000 mm
+Info: 14 C102 UUID: [9f405f32-2f64-4263-b93f-015da219d625], X, Y: 211.6000 mm, 41.5000 mm, Rounded X, Y, 211.6000 mm, 41.5000 mm
+Info: 15 C106 UUID: [21935355-0ea7-4418-bf57-3f39151b43f0], X, Y: 194.6000 mm, 41.5000 mm, Rounded X, Y, 194.6000 mm, 41.5000 mm
+Info: 16 C108 UUID: [5b7d43c3-fe25-4339-ba2b-cab150709af7], X, Y: 193.0000 mm, 41.5000 mm, Rounded X, Y, 193.0000 mm, 41.5000 mm
+Info: 17 D7 UUID: [b641bdf0-49eb-4e1c-94cb-5314bfd786c3], X, Y: 171.2000 mm, 43.1000 mm, Rounded X, Y, 171.2000 mm, 43.1000 mm
+Info: 18 D6 UUID: [15c5f8f7-2afb-450d-b21e-f225e625be45], X, Y: 167.8000 mm, 43.1000 mm, Rounded X, Y, 167.8000 mm, 43.1000 mm
+Info: 19 D8 UUID: [ad3ab07d-9057-4924-bd8b-8088b57ed8a1], X, Y: 164.4000 mm, 43.1000 mm, Rounded X, Y, 164.4000 mm, 43.1000 mm
+Info: 20 R2 UUID: [6c8bd184-798c-4f7b-a843-9cd77462ab86], X, Y: 285.1250 mm, 43.3700 mm, Rounded X, Y, 285.1200 mm, 43.3700 mm
+Info: 21 R1 UUID: [0578c37e-47f8-452a-a67a-b190503e62a1], X, Y: 285.1300 mm, 44.9400 mm, Rounded X, Y, 285.1300 mm, 44.9400 mm
+Info: 22 C6 UUID: [90d4da69-4018-498f-bb6b-4cfebdb4cb5a], X, Y: 256.9948 mm, 45.9200 mm, Rounded X, Y, 256.9900 mm, 45.9200 mm
+Info: 23 R5 UUID: [0b83f195-4963-4ca1-a54c-d24446b93c1d], X, Y: 255.4698 mm, 45.9200 mm, Rounded X, Y, 255.4700 mm, 45.9200 mm
+Info: 24 R6 UUID: [a8cb8963-6a5a-49e4-a7a4-19c73d057da1], X, Y: 248.5198 mm, 45.9767 mm, Rounded X, Y, 248.5200 mm, 45.9800 mm
+Info: 25 C4 UUID: [b4efda08-249d-4e6f-88e2-4c848a29d86f], X, Y: 246.9948 mm, 46.0017 mm, Rounded X, Y, 246.9900 mm, 46.0000 mm
+Info: 26 U2 UUID: [b464a15f-49cd-483f-929b-b1d63c0dfe61], X, Y: 252.9200 mm, 47.6602 mm, Rounded X, Y, 252.9200 mm, 47.6600 mm
+Info: 27 G*** UUID: [f62f571e-809b-4679-b4e9-53366150a207], X, Y: 171.0000 mm, 48.1000 mm, Rounded X, Y, 171.0000 mm, 48.1000 mm
+Info: 28 G*** UUID: [f1c5bfbf-437b-4444-ade4-cd4697dfba52], X, Y: 164.1000 mm, 48.1000 mm, Rounded X, Y, 164.1000 mm, 48.1000 mm
+Info: 29 R8 UUID: [c76515d9-e052-481d-a8d4-7fa5a038c2eb], X, Y: 256.9948 mm, 49.0200 mm, Rounded X, Y, 256.9900 mm, 49.0200 mm
+Info: 30 R7 UUID: [2f5d750f-5572-471e-ad27-fa2c6e839281], X, Y: 246.9948 mm, 49.1017 mm, Rounded X, Y, 246.9900 mm, 49.1000 mm
+Info: 31 R12 UUID: [ef9dd0d9-21e3-49e7-af84-aa2227a2675a], X, Y: 253.7200 mm, 51.2950 mm, Rounded X, Y, 253.7200 mm, 51.2900 mm
+Info: 32 R15 UUID: [7903577e-90f3-4db0-83ab-298ddfa54431], X, Y: 252.1200 mm, 51.3200 mm, Rounded X, Y, 252.1200 mm, 51.3200 mm
+Info: 33 R20 UUID: [e50c0e15-2a00-42e9-969f-a33d5defc610], X, Y: 255.9700 mm, 52.0450 mm, Rounded X, Y, 255.9700 mm, 52.0400 mm
+Info: 34 R21 UUID: [9a23b505-a1c1-4c55-8e94-07d0a04f6fc8], X, Y: 249.8700 mm, 52.0700 mm, Rounded X, Y, 249.8700 mm, 52.0700 mm
+Info: 35 C30 UUID: [ee7c2646-8918-4316-a13c-a55547939d0d], X, Y: 256.7200 mm, 54.3200 mm, Rounded X, Y, 256.7200 mm, 54.3200 mm
+Info: 36 R23 UUID: [0a22617f-48e2-405b-8c59-09456fa25df2], X, Y: 255.2200 mm, 54.3200 mm, Rounded X, Y, 255.2200 mm, 54.3200 mm
+Info: 37 C25 UUID: [2add6fbd-b38e-45b6-a212-125797d8d517], X, Y: 253.7200 mm, 54.3200 mm, Rounded X, Y, 253.7200 mm, 54.3200 mm
+Info: 38 C26 UUID: [f990f52e-1060-43c0-97b5-9bdc75fcd620], X, Y: 252.1200 mm, 54.3450 mm, Rounded X, Y, 252.1200 mm, 54.3400 mm
+Info: 39 R22 UUID: [0b8f20a1-43ed-46d2-8b26-702ba0309f43], X, Y: 250.6200 mm, 54.3450 mm, Rounded X, Y, 250.6200 mm, 54.3400 mm
+Info: 40 C31 UUID: [b8513cf6-7d74-49e5-a1db-c65cbb1ba585], X, Y: 249.1200 mm, 54.3450 mm, Rounded X, Y, 249.1200 mm, 54.3400 mm
+Info: 41 R31 UUID: [a8602b57-4e29-4aee-9e20-8a3468aa8102], X, Y: 248.9902 mm, 57.5333 mm, Rounded X, Y, 248.9900 mm, 57.5300 mm
+Info: 42 C43 UUID: [42c4c59c-cc5c-4fd7-a70a-157ab00b49dd], X, Y: 247.4902 mm, 57.5383 mm, Rounded X, Y, 247.4900 mm, 57.5400 mm
+Info: 43 U4 UUID: [9b29cd54-7d87-4a06-95ed-141c28052086], X, Y: 252.9200 mm, 59.1200 mm, Rounded X, Y, 252.9200 mm, 59.1200 mm
+Info: 44 R30 UUID: [542dc883-e43e-472f-abc6-3a26a651cfff], X, Y: 248.9902 mm, 60.7133 mm, Rounded X, Y, 248.9900 mm, 60.7100 mm
+Info: 45 C42 UUID: [e14837a6-e638-4080-99ac-983030d82948], X, Y: 247.4802 mm, 60.7183 mm, Rounded X, Y, 247.4800 mm, 60.7200 mm
+Info: 46 C13 UUID: [5c6f666c-9dd8-4829-8e80-5befac30e1d8], X, Y: 266.1745 mm, 63.2595 mm, Rounded X, Y, 266.1700 mm, 63.2600 mm
+Info: 47 C2 UUID: [32d9b593-6e00-4ffd-a08a-8f7fab912e91], X, Y: 264.6745 mm, 63.2595 mm, Rounded X, Y, 264.6700 mm, 63.2600 mm
+Info: 48 R4 UUID: [335eb178-9181-4ef2-a296-3c4829b20506], X, Y: 263.1745 mm, 63.2595 mm, Rounded X, Y, 263.1700 mm, 63.2600 mm
+Info: 49 C52 UUID: [90c07117-21cb-4709-aafc-49395e5940fc], X, Y: 250.6200 mm, 63.8950 mm, Rounded X, Y, 250.6200 mm, 63.8900 mm
+Info: 50 C53 UUID: [f0b0f0b8-d6ab-47f5-b3d7-a419942acf09], X, Y: 255.1200 mm, 63.9200 mm, Rounded X, Y, 255.1200 mm, 63.9200 mm
+Info: 51 R35 UUID: [96bb19ba-ff89-4c77-a440-9e0a11db0f5c], X, Y: 253.6200 mm, 63.9200 mm, Rounded X, Y, 253.6200 mm, 63.9200 mm
+Info: 52 R34 UUID: [92833a25-9b29-40f2-9ff9-85f116f08a3f], X, Y: 252.1200 mm, 63.9200 mm, Rounded X, Y, 252.1200 mm, 63.9200 mm
+Info: 53 R3 UUID: [eb0800e6-e528-4757-9302-dcfdf8abad5f], X, Y: 261.0995 mm, 65.1095 mm, Rounded X, Y, 261.1000 mm, 65.1100 mm
+Info: 54 C49 UUID: [4f0d0ace-e127-46ac-950d-6772649d938a], X, Y: 252.8700 mm, 66.1400 mm, Rounded X, Y, 252.8700 mm, 66.1400 mm
+Info: 55 C1 UUID: [0938bcb7-e6c9-4788-b5e6-9acbacb9b62b], X, Y: 261.0995 mm, 66.6095 mm, Rounded X, Y, 261.1000 mm, 66.6100 mm
+Info: 56 U1 UUID: [93391fc0-2245-4688-ae4c-8d46a3492553], X, Y: 265.2445 mm, 67.3595 mm, Rounded X, Y, 265.2400 mm, 67.3600 mm
+Info: 57 R28 UUID: [82640fbd-3c73-4450-a22e-da4ba30d7b63], X, Y: 258.1450 mm, 67.8500 mm, Rounded X, Y, 258.1400 mm, 67.8500 mm
+Info: 58 R29 UUID: [e7bf863f-b7ab-4ead-b51e-bc27fb58766e], X, Y: 255.1700 mm, 67.8500 mm, Rounded X, Y, 255.1700 mm, 67.8500 mm
+Info: 59 R65 UUID: [75d41bf9-6a28-4542-b1f4-cd0ecc474c5b], X, Y: 174.7400 mm, 69.1100 mm, Rounded X, Y, 174.7400 mm, 69.1100 mm
+Info: 60 R66 UUID: [11961651-8c18-44a2-9be0-223b05e9f2bd], X, Y: 171.6600 mm, 69.1100 mm, Rounded X, Y, 171.6600 mm, 69.1100 mm
+Info: 61 R67 UUID: [c720f2e8-cac0-49f0-894e-f5031baecdde], X, Y: 168.6100 mm, 69.1100 mm, Rounded X, Y, 168.6100 mm, 69.1100 mm
+Info: 62 C40 UUID: [958d8925-0e3f-4da3-a6b1-bfae443f6cfd], X, Y: 258.1450 mm, 69.3500 mm, Rounded X, Y, 258.1400 mm, 69.3500 mm
+Info: 63 C41 UUID: [71bd50be-7db5-4780-bbec-b6e8ed043e99], X, Y: 255.1700 mm, 69.3500 mm, Rounded X, Y, 255.1700 mm, 69.3500 mm
+Info: 64 R64 UUID: [2fd27f65-5d80-4188-b2bf-acc531168e70], X, Y: 174.7400 mm, 70.6600 mm, Rounded X, Y, 174.7400 mm, 70.6600 mm
+Info: 65 C51 UUID: [8e789659-96b5-4a8d-93cb-7298e7069d96], X, Y: 251.8772 mm, 71.0578 mm, Rounded X, Y, 251.8800 mm, 71.0600 mm
+Info: 66 C18 UUID: [9996c1e2-bf8a-4331-acff-6dbfe163533c], X, Y: 266.6445 mm, 71.8678 mm, Rounded X, Y, 266.6400 mm, 71.8700 mm
+Info: 67 C17 UUID: [0a662090-924a-41f9-9c84-ecfee2765f3e], X, Y: 265.0445 mm, 71.8678 mm, Rounded X, Y, 265.0400 mm, 71.8700 mm
+Info: 68 C28 UUID: [28542c89-831f-46a2-9572-15f587ab3dd8], X, Y: 260.5450 mm, 71.8900 mm, Rounded X, Y, 260.5400 mm, 71.8900 mm
+Info: 69 Q3 UUID: [d3c47d26-7908-49cc-ab0e-07a830d9cec5], X, Y: 178.5000 mm, 72.0500 mm, Rounded X, Y, 178.5000 mm, 72.0500 mm
+Info: 70 R33 UUID: [9946b09b-2d8e-41c4-9b8b-ed51b1f0b4bf], X, Y: 251.8772 mm, 72.5578 mm, Rounded X, Y, 251.8800 mm, 72.5600 mm
+Info: 71 R70 UUID: [7aacb1dd-9b5b-400c-b776-7248739c89ff], X, Y: 175.5100 mm, 72.9800 mm, Rounded X, Y, 175.5100 mm, 72.9800 mm
+Info: 72 R71 UUID: [8ef63d0b-c40a-4028-9155-7be2f9ffa36c], X, Y: 183.0100 mm, 72.9900 mm, Rounded X, Y, 183.0100 mm, 72.9900 mm
+Info: 73 C129 UUID: [42e22537-8a59-4884-bd3a-296ff192f30d], X, Y: 181.4800 mm, 73.0000 mm, Rounded X, Y, 181.4800 mm, 73.0000 mm
+Info: 74 R37 UUID: [cb7e0a10-8b63-4d06-a672-9a51c28baffb], X, Y: 240.6750 mm, 73.2543 mm, Rounded X, Y, 240.6700 mm, 73.2500 mm
+Info: 75 C48 UUID: [37e90919-1fd3-4491-a9f2-abbb7c6a93ce], X, Y: 249.6772 mm, 73.3578 mm, Rounded X, Y, 249.6800 mm, 73.3600 mm
+Info: 76 U3 UUID: [83b39ec6-0a03-45f8-aae0-940e61a7cd70], X, Y: 256.5929 mm, 73.4056 mm, Rounded X, Y, 256.5900 mm, 73.4100 mm
+Info: 77 U5 UUID: [bf2f306b-7e48-4394-9dde-f34ee5ca8ec2], X, Y: 244.7600 mm, 73.9632 mm, Rounded X, Y, 244.7600 mm, 73.9600 mm
+Info: 78 R32 UUID: [bb950574-61bb-4618-8728-ac44e25a7a25], X, Y: 251.8772 mm, 74.2578 mm, Rounded X, Y, 251.8800 mm, 74.2600 mm
+Info: 79 U24 UUID: [46db3e31-f72d-4b19-8aa0-55fdef644baa], X, Y: 170.2400 mm, 74.3900 mm, Rounded X, Y, 170.2400 mm, 74.3900 mm
+Info: 80 R38 UUID: [45e4f1da-2cd8-4e6f-aa8f-689a94f70921], X, Y: 240.6750 mm, 74.8043 mm, Rounded X, Y, 240.6700 mm, 74.8000 mm
+Info: 81 R18 UUID: [2d249090-11f4-449d-862f-8733c097b5af], X, Y: 268.0900 mm, 74.8800 mm, Rounded X, Y, 268.0900 mm, 74.8800 mm
+Info: 82 R17 UUID: [52124a33-5324-45fa-b076-c4332c089c58], X, Y: 266.5900 mm, 74.8800 mm, Rounded X, Y, 266.5900 mm, 74.8800 mm
+Info: 83 R16 UUID: [4ee4ae8b-61c7-460c-873f-ed49651743e8], X, Y: 265.0900 mm, 74.8800 mm, Rounded X, Y, 265.0900 mm, 74.8800 mm
+Info: 84 R19 UUID: [48259941-b1fb-4747-bfc0-4331eaabce95], X, Y: 263.5900 mm, 74.8800 mm, Rounded X, Y, 263.5900 mm, 74.8800 mm
+Info: 85 C29 UUID: [c9b8090c-a012-4831-a62a-59edb3a90baf], X, Y: 260.5450 mm, 74.8900 mm, Rounded X, Y, 260.5400 mm, 74.8900 mm
+Info: 86 R61 UUID: [97c48f85-5a6d-4bef-8746-bcdebd06ca61], X, Y: 197.1100 mm, 75.2500 mm, Rounded X, Y, 197.1100 mm, 75.2500 mm
+Info: 87 C50 UUID: [9a103e91-c496-430d-9146-89abff106f87], X, Y: 251.8772 mm, 75.7578 mm, Rounded X, Y, 251.8800 mm, 75.7600 mm
+Info: 88 Q4 UUID: [92dae593-27cc-438d-a171-3260aeebd602], X, Y: 178.4900 mm, 75.9200 mm, Rounded X, Y, 178.4900 mm, 75.9200 mm
+Info: 89 R69 UUID: [fbef717e-a140-4706-a0a6-c307fe2c19e4], X, Y: 175.5000 mm, 76.0200 mm, Rounded X, Y, 175.5000 mm, 76.0200 mm
+Info: 90 R72 UUID: [c3b5ef56-74ef-43ec-b9f8-07e69d639ad9], X, Y: 183.0100 mm, 76.0350 mm, Rounded X, Y, 183.0100 mm, 76.0300 mm
+Info: 91 C128 UUID: [b37c6c1a-abc1-4336-984f-1696003b4358], X, Y: 181.4800 mm, 76.0300 mm, Rounded X, Y, 181.4800 mm, 76.0300 mm
+Info: 92 U13 UUID: [78d52183-fc9f-473d-af48-32cb8a86e314], X, Y: 216.5000 mm, 76.5000 mm, Rounded X, Y, 216.5000 mm, 76.5000 mm
+Info: 93 FB1 UUID: [13478164-44d8-4b70-9a3b-18f200deddfc], X, Y: 270.0850 mm, 78.5550 mm, Rounded X, Y, 270.0800 mm, 78.5500 mm
+Info: 94 R53 UUID: [9d9169e7-d932-4355-8a5e-b13cc3a2fc9a], X, Y: 165.2800 mm, 80.8300 mm, Rounded X, Y, 165.2800 mm, 80.8300 mm
+Info: 95 R52 UUID: [9be3b8fe-2aed-47e1-bf97-ad717698cc02], X, Y: 161.4700 mm, 80.8400 mm, Rounded X, Y, 161.4700 mm, 80.8400 mm
+Info: 96 U9 UUID: [1e35901f-e7f0-47bc-aea6-8bbf3533fe51], X, Y: 270.0900 mm, 82.6500 mm, Rounded X, Y, 270.0900 mm, 82.6500 mm
+Info: 97 U11 UUID: [81382938-a484-404e-ae45-0197ce3f233a], X, Y: 261.4800 mm, 82.7250 mm, Rounded X, Y, 261.4800 mm, 82.7200 mm
+Info: 98 R42 UUID: [16936265-9da4-432d-a361-22a87bc4a26f], X, Y: 257.4100 mm, 85.3750 mm, Rounded X, Y, 257.4100 mm, 85.3700 mm
+Info: 99 C73 UUID: [1ad55954-5086-4ae6-acf2-05f4ff0708cd], X, Y: 270.3350 mm, 86.6250 mm, Rounded X, Y, 270.3300 mm, 86.6200 mm
+Info: 100 U12 UUID: [c8756d37-f96f-4413-a974-4dbac44a0e0c], X, Y: 261.4550 mm, 87.2400 mm, Rounded X, Y, 261.4500 mm, 87.2400 mm
+Info: 101 U10 UUID: [ebbc979d-a82a-471c-b7ac-e64b771ab7d5], X, Y: 265.4700 mm, 87.2697 mm, Rounded X, Y, 265.4700 mm, 87.2700 mm
+Info: 102 C63 UUID: [caec2e82-d955-4b57-b3b9-4b6088cd5e3d], X, Y: 250.9250 mm, 87.5800 mm, Rounded X, Y, 250.9200 mm, 87.5800 mm
+Info: 103 C65 UUID: [8d6a3f03-ec70-4c74-8934-5b1887b0c26a], X, Y: 249.4250 mm, 87.5800 mm, Rounded X, Y, 249.4200 mm, 87.5800 mm
+Info: 104 C71 UUID: [55d8539e-39e3-440e-aa96-8af5bcd2eee1], X, Y: 258.1650 mm, 87.5900 mm, Rounded X, Y, 258.1600 mm, 87.5900 mm
+Info: 105 R41 UUID: [46e0d02b-21e0-4f5f-8bb2-290863801475], X, Y: 256.6400 mm, 87.5900 mm, Rounded X, Y, 256.6400 mm, 87.5900 mm
+Info: 106 U6 UUID: [0e20234a-d07f-4b02-bfb0-6ca2c38105cb], X, Y: 253.9500 mm, 87.5900 mm, Rounded X, Y, 253.9500 mm, 87.5900 mm
+Info: 107 C61 UUID: [a19f97a2-0a39-482e-9340-8934eb3161fc], X, Y: 247.8250 mm, 87.6300 mm, Rounded X, Y, 247.8200 mm, 87.6300 mm
+Info: 108 R73 UUID: [34f28257-075d-435a-96ca-7744eb05a464], X, Y: 181.3600 mm, 88.2100 mm, Rounded X, Y, 181.3600 mm, 88.2100 mm
+Info: 109 U23 UUID: [8e489fcd-25ef-4282-b196-fb724bde004c], X, Y: 164.1900 mm, 92.6300 mm, Rounded X, Y, 164.1900 mm, 92.6300 mm
+Info: 110 R60 UUID: [9c9165ac-716c-46cf-b69d-ea14b7bfe4bd], X, Y: 181.3900 mm, 97.0800 mm, Rounded X, Y, 181.3900 mm, 97.0800 mm
+Info: 111 C112 UUID: [b3a4c3e6-681c-43ad-9343-5eb646d4f70f], X, Y: 258.7750 mm, 97.8500 mm, Rounded X, Y, 258.7700 mm, 97.8500 mm
+Info: 112 C111 UUID: [10518b7c-2576-4335-ac7a-e38c726bca78], X, Y: 256.9750 mm, 97.8500 mm, Rounded X, Y, 256.9700 mm, 97.8500 mm
+Info: 113 C78 UUID: [fc19c4f7-798f-46df-b8b4-fb10653c19a8], X, Y: 255.3750 mm, 97.8500 mm, Rounded X, Y, 255.3700 mm, 97.8500 mm
+Info: 114 C83 UUID: [871747f9-d1f0-4f8a-8771-37d32db82351], X, Y: 252.5750 mm, 97.8500 mm, Rounded X, Y, 252.5700 mm, 97.8500 mm
+Info: 115 C113 UUID: [4e6f3825-9341-4cd0-9ea1-c2c481507c6b], X, Y: 250.7400 mm, 97.8800 mm, Rounded X, Y, 250.7400 mm, 97.8800 mm
+Info: 116 C114 UUID: [731aa020-86a5-4998-b1e5-55071e2cfa29], X, Y: 249.1300 mm, 97.8900 mm, Rounded X, Y, 249.1300 mm, 97.8900 mm
+Info: 117 C75 UUID: [bf49afb2-9e6b-4a9b-b75c-195b8a5a194a], X, Y: 258.7500 mm, 101.7000 mm, Rounded X, Y, 258.7500 mm, 101.7000 mm
+Info: 118 C68 UUID: [bd7604c5-87b8-4bd9-9e37-649c4b42cdae], X, Y: 246.0750 mm, 102.5250 mm, Rounded X, Y, 246.0700 mm, 102.5200 mm
+Info: 119 R45 UUID: [2d77b8ea-03f8-43d2-b213-4da4a284dabd], X, Y: 258.7750 mm, 105.2750 mm, Rounded X, Y, 258.7700 mm, 105.2700 mm
+Info: 120 D3 UUID: [a303aa19-a577-4ba5-9a36-66e085dc6db1], X, Y: 248.8000 mm, 105.3250 mm, Rounded X, Y, 248.8000 mm, 105.3200 mm
+Info: 121 C76 UUID: [197e5499-bc56-4f90-8c4c-8d2aa56a1aa0], X, Y: 160.1825 mm, 105.3450 mm, Rounded X, Y, 160.1800 mm, 105.3400 mm
+Info: 122 C127 UUID: [8bc0ea16-b07c-4e84-a974-b827d275f5a0], X, Y: 167.8500 mm, 105.3500 mm, Rounded X, Y, 167.8500 mm, 105.3500 mm
+Info: 123 R68 UUID: [e3e1f600-a238-4847-b7c3-b379d7babea4], X, Y: 166.3100 mm, 105.3500 mm, Rounded X, Y, 166.3100 mm, 105.3500 mm
+Info: 124 C124 UUID: [ea8b2af2-85c3-459f-a29f-9c21bd1553b7], X, Y: 164.7700 mm, 105.3500 mm, Rounded X, Y, 164.7700 mm, 105.3500 mm
+Info: 125 C123 UUID: [a40b12bd-43c8-462e-9491-b7479b20666d], X, Y: 163.2400 mm, 105.3500 mm, Rounded X, Y, 163.2400 mm, 105.3500 mm
+Info: 126 C126 UUID: [034b6d13-24cd-4c7b-893b-aff3f8314eec], X, Y: 161.7125 mm, 105.3550 mm, Rounded X, Y, 161.7100 mm, 105.3500 mm
+Info: 127 R62 UUID: [882d58ad-dfac-4c09-8126-2d39727f4f25], X, Y: 174.1600 mm, 105.3800 mm, Rounded X, Y, 174.1600 mm, 105.3800 mm
+Info: 128 R44 UUID: [898fec02-e9f0-4f68-86df-85569242df45], X, Y: 246.0750 mm, 106.6250 mm, Rounded X, Y, 246.0700 mm, 106.6200 mm
+Info: 129 U8 UUID: [b50be23b-ce1c-4528-8206-bf645533c790], X, Y: 253.9750 mm, 106.8500 mm, Rounded X, Y, 253.9700 mm, 106.8500 mm
+Info: 130 R46 UUID: [a9e2d506-51b2-477d-b263-0ea3a860e4c6], X, Y: 268.6000 mm, 106.9250 mm, Rounded X, Y, 268.6000 mm, 106.9200 mm
+Info: 131 R43 UUID: [10ff95ff-472d-4d51-9562-3d4d318a9c29], X, Y: 246.0750 mm, 108.1250 mm, Rounded X, Y, 246.0700 mm, 108.1200 mm
+Info: 132 D1 UUID: [24954364-08ca-480b-a17f-cef42a647d11], X, Y: 263.8500 mm, 109.2250 mm, Rounded X, Y, 263.8500 mm, 109.2200 mm
+Info: 133 C70 UUID: [5b89adf9-9731-4f8a-b8c1-e82e57f2cb4a], X, Y: 246.0750 mm, 109.6250 mm, Rounded X, Y, 246.0700 mm, 109.6200 mm
+Info: 134 S1 UUID: [48bfdc01-b0cd-4f5b-bb75-2b3ad4a6ff9f], X, Y: 271.9100 mm, 110.5800 mm, Rounded X, Y, 271.9100 mm, 110.5800 mm
+Info: 135 C99 UUID: [6bac4868-49c8-4e96-84cf-d7d4421e10a0], X, Y: 220.9500 mm, 111.4750 mm, Rounded X, Y, 220.9500 mm, 111.4700 mm
+Info: 136 C97 UUID: [3f7c91bb-b0a0-416f-ac44-126083cffde2], X, Y: 219.4500 mm, 111.4750 mm, Rounded X, Y, 219.4500 mm, 111.4700 mm
+Info: 137 C100 UUID: [006fd919-1196-470f-a248-f93a156f42f7], X, Y: 239.4000 mm, 111.5000 mm, Rounded X, Y, 239.4000 mm, 111.5000 mm
+Info: 138 C98 UUID: [5f0202a2-1de2-4919-9405-f4d2a479cf56], X, Y: 237.9100 mm, 111.5000 mm, Rounded X, Y, 237.9100 mm, 111.5000 mm
+Info: 139 C107 UUID: [456aeb2b-6826-4420-b620-80c6dc9e071b], X, Y: 190.4000 mm, 111.5000 mm, Rounded X, Y, 190.4000 mm, 111.5000 mm
+Info: 140 C105 UUID: [479b4504-5605-4082-919a-baca47d55419], X, Y: 188.9000 mm, 111.5000 mm, Rounded X, Y, 188.9000 mm, 111.5000 mm
+Info: 141 C101 UUID: [66ae25e1-8f78-438d-aa96-ca55ba5a4ab3], X, Y: 209.3000 mm, 111.5250 mm, Rounded X, Y, 209.3000 mm, 111.5200 mm
+Info: 142 C103 UUID: [8c1789b1-5d02-4b6f-aa73-a8487ba46dee], X, Y: 207.8200 mm, 111.5250 mm, Rounded X, Y, 207.8200 mm, 111.5200 mm
+Info: 143 P5 UUID: [0210975c-d641-4efc-aed9-abd36f5b2ca2], X, Y: 243.0751 mm, 118.7000 mm, Rounded X, Y, 243.0800 mm, 118.7000 mm
+Info: 144 P6 UUID: [83e8e0fb-2eed-4111-9b7a-27ebbdb49fb5], X, Y: 219.2901 mm, 118.7000 mm, Rounded X, Y, 219.2900 mm, 118.7000 mm
+Info: 145 P7 UUID: [65d166da-6e54-4899-bf21-78b437ce2ab8], X, Y: 195.4676 mm, 118.7000 mm, Rounded X, Y, 195.4700 mm, 118.7000 mm
+Info: 146 P8 UUID: [95e88e77-ee7d-4a55-b131-b751971338ed], X, Y: 171.5751 mm, 118.7000 mm, Rounded X, Y, 171.5800 mm, 118.7000 mm
+Info: 147 H2 UUID: [fe5f3cf4-30f5-4ecf-a7da-43bdebe2cf47], X, Y: 270.2002 mm, 121.6400 mm, Rounded X, Y, 270.2000 mm, 121.6400 mm
+Info: 148 H1 UUID: [395c3b9a-2c81-4f50-bfcd-a053be469ada], X, Y: 162.2002 mm, 121.6400 mm, Rounded X, Y, 162.2000 mm, 121.6400 mm
+Info: 
+Info: 
+Info: Back Footprints
+Info: *********** Sort on Footprint Coordinates ***********
+Info: Sort Code 1
+Info: 1 Q2 UUID: [7229c1f7-ce77-4976-8be7-27a657ec73d2], X, Y: 163.1592 mm, 41.5988 mm, Rounded X, Y, 163.1600 mm, 41.6000 mm
+Info: 2 Q1 UUID: [30fecc18-0e4a-4a8b-b8b0-44c7c2196f7b], X, Y: 170.0945 mm, 41.6000 mm, Rounded X, Y, 170.0900 mm, 41.6000 mm
+Info: 3 U22 UUID: [050e1bcb-3371-4602-b469-575177afa360], X, Y: 192.0000 mm, 41.6000 mm, Rounded X, Y, 192.0000 mm, 41.6000 mm
+Info: 4 U20 UUID: [c18eab44-b32e-4646-aba6-319c7960505b], X, Y: 210.5000 mm, 41.7000 mm, Rounded X, Y, 210.5000 mm, 41.7000 mm
+Info: 5 U18 UUID: [cd526938-1c37-4fa0-a92d-cff8ee4bd1f4], X, Y: 221.5000 mm, 41.7000 mm, Rounded X, Y, 221.5000 mm, 41.7000 mm
+Info: 6 U16 UUID: [89f3bab7-ff7c-4c47-a530-197c66f36b2d], X, Y: 240.5000 mm, 41.7000 mm, Rounded X, Y, 240.5000 mm, 41.7000 mm
+Info: 7 C110 UUID: [03e42c5d-8b0c-4085-a1e8-a37b52982fbc], X, Y: 249.8148 mm, 43.6967 mm, Rounded X, Y, 249.8100 mm, 43.7000 mm
+Info: 8 C15 UUID: [ab44f634-ee67-4827-abd4-6fd7dd2e327f], X, Y: 252.8948 mm, 43.6967 mm, Rounded X, Y, 252.8900 mm, 43.7000 mm
+Info: 9 P12 UUID: [be7cb87d-abfc-4a7d-8c35-12d8b56fcde4], X, Y: 270.1900 mm, 44.3400 mm, Rounded X, Y, 270.1900 mm, 44.3400 mm
+Info: 10 R57 UUID: [b0ca33c9-4d0c-4b03-88eb-a8d18a79b7de], X, Y: 161.8000 mm, 45.0000 mm, Rounded X, Y, 161.8000 mm, 45.0000 mm
+Info: 11 R58 UUID: [9980ec04-e9a0-43dc-a3f1-5f8bc796ad5b], X, Y: 163.4000 mm, 45.0000 mm, Rounded X, Y, 163.4000 mm, 45.0000 mm
+Info: 12 R59 UUID: [17009834-6e4e-4fd2-8ac3-a243e8945980], X, Y: 165.0000 mm, 45.0000 mm, Rounded X, Y, 165.0000 mm, 45.0000 mm
+Info: 13 R49 UUID: [c1f2104a-f60c-4faa-9ee3-e336583210a3], X, Y: 166.8500 mm, 45.0000 mm, Rounded X, Y, 166.8500 mm, 45.0000 mm
+Info: 14 R54 UUID: [a57788f3-d21e-43ec-96a4-4db259bb954d], X, Y: 168.7000 mm, 45.0000 mm, Rounded X, Y, 168.7000 mm, 45.0000 mm
+Info: 15 R55 UUID: [e5a074a7-ff93-4fde-b2c1-47d7de951c20], X, Y: 170.3000 mm, 45.0000 mm, Rounded X, Y, 170.3000 mm, 45.0000 mm
+Info: 16 R56 UUID: [59bd1d4b-a234-43d7-91a4-3c8593a3bf5e], X, Y: 171.9000 mm, 45.0000 mm, Rounded X, Y, 171.9000 mm, 45.0000 mm
+Info: 17 C109 UUID: [7dfd4a95-0f0c-4c6b-b96e-75361dc62b3c], X, Y: 249.8148 mm, 45.2367 mm, Rounded X, Y, 249.8100 mm, 45.2400 mm
+Info: 18 C11 UUID: [049301c4-836c-42b1-a93c-28aae55408d5], X, Y: 252.9048 mm, 45.2367 mm, Rounded X, Y, 252.9000 mm, 45.2400 mm
+Info: 19 R9 UUID: [ddc9600e-c189-4ae7-a3a6-1a827ed62c65], X, Y: 252.9200 mm, 47.5603 mm, Rounded X, Y, 252.9200 mm, 47.5600 mm
+Info: 20 C16 UUID: [f8b4dc17-7e6f-447d-8bdd-6c8de11b4e98], X, Y: 252.9200 mm, 49.0603 mm, Rounded X, Y, 252.9200 mm, 49.0600 mm
+Info: 21 C20 UUID: [3903a7de-2080-4916-aaae-f6130c5d3cb4], X, Y: 252.9200 mm, 50.5950 mm, Rounded X, Y, 252.9200 mm, 50.5900 mm
+Info: 22 C19 UUID: [39bd9ff3-0c14-4750-8a58-22cb13cea02b], X, Y: 252.9200 mm, 52.0950 mm, Rounded X, Y, 252.9200 mm, 52.0900 mm
+Info: 23 C121 UUID: [5cff931d-c10b-49a5-bdc4-9d14b1c160c6], X, Y: 254.4298 mm, 55.3267 mm, Rounded X, Y, 254.4300 mm, 55.3300 mm
+Info: 24 C22 UUID: [ee9cbc31-a358-4ecc-bc3d-8e179228e60d], X, Y: 251.3898 mm, 55.3367 mm, Rounded X, Y, 251.3900 mm, 55.3400 mm
+Info: 25 C10 UUID: [f73535b3-97a4-4a32-a960-648bbaab0a5c], X, Y: 251.3898 mm, 56.8367 mm, Rounded X, Y, 251.3900 mm, 56.8400 mm
+Info: 26 C122 UUID: [46f3186b-9cb4-4ee4-aef3-fed529b61380], X, Y: 254.4298 mm, 56.8367 mm, Rounded X, Y, 254.4300 mm, 56.8400 mm
+Info: 27 P10 UUID: [ec5d0170-2e7d-4ac1-9c32-53fadbc043c3], X, Y: 168.5600 mm, 57.0440 mm, Rounded X, Y, 168.5600 mm, 57.0400 mm
+Info: 28 C45 UUID: [b858d4fc-1ae7-42f9-b7ac-881b2e757188], X, Y: 248.3198 mm, 58.3847 mm, Rounded X, Y, 248.3200 mm, 58.3800 mm
+Info: 29 R26 UUID: [3a0f3436-5902-44bc-af79-bc7e4335f373], X, Y: 251.3902 mm, 58.3833 mm, Rounded X, Y, 251.3900 mm, 58.3800 mm
+Info: 30 C37 UUID: [50fdd1d1-0b1b-47f2-bd51-fb5c8551a03d], X, Y: 254.4252 mm, 58.3833 mm, Rounded X, Y, 254.4300 mm, 58.3800 mm
+Info: 31 C33 UUID: [a5aafbc4-6857-4b48-8cc9-4a6ab1bbc515], X, Y: 257.4848 mm, 58.3967 mm, Rounded X, Y, 257.4800 mm, 58.4000 mm
+Info: 32 R27 UUID: [e2a9378b-ff6a-4a83-85d5-d0135d33860c], X, Y: 251.3952 mm, 59.8833 mm, Rounded X, Y, 251.4000 mm, 59.8800 mm
+Info: 33 C38 UUID: [54fb6744-6c33-4a2c-b97b-8eea48071cb5], X, Y: 254.4252 mm, 59.8833 mm, Rounded X, Y, 254.4300 mm, 59.8800 mm
+Info: 34 C39 UUID: [bcd20e3b-b32f-4f3f-8683-84c74b424a31], X, Y: 257.4748 mm, 59.8867 mm, Rounded X, Y, 257.4700 mm, 59.8900 mm
+Info: 35 C47 UUID: [31db70a3-321b-4b2d-9be7-cba2683b6363], X, Y: 248.3168 mm, 59.8967 mm, Rounded X, Y, 248.3200 mm, 59.9000 mm
+Info: 36 P14 UUID: [050031de-379a-4826-b614-b1ad07b7f6ac], X, Y: 270.8900 mm, 60.1365 mm, Rounded X, Y, 270.8900 mm, 60.1400 mm
+Info: 37 C14 UUID: [e2b7a84e-676c-4bba-944f-4f2f88f47a73], X, Y: 251.4048 mm, 61.4267 mm, Rounded X, Y, 251.4000 mm, 61.4300 mm
+Info: 38 C120 UUID: [0a84a363-d903-4d0f-8b6f-94f535064747], X, Y: 254.4298 mm, 61.4267 mm, Rounded X, Y, 254.4300 mm, 61.4300 mm
+Info: 39 C24 UUID: [5de24c5a-0d92-4307-b912-89667a998851], X, Y: 251.4048 mm, 62.9267 mm, Rounded X, Y, 251.4000 mm, 62.9300 mm
+Info: 40 C119 UUID: [7fd84043-c517-481b-bdbf-37d6473c4a16], X, Y: 254.4298 mm, 62.9267 mm, Rounded X, Y, 254.4300 mm, 62.9300 mm
+Info: 41 C3 UUID: [ed96ccc4-aab8-44f5-a1d3-3647cc28df2b], X, Y: 269.3945 mm, 66.8345 mm, Rounded X, Y, 269.3900 mm, 66.8300 mm
+Info: 42 C7 UUID: [5496db35-6ef0-4639-a828-70c5c26991aa], X, Y: 264.6445 mm, 67.5595 mm, Rounded X, Y, 264.6400 mm, 67.5600 mm
+Info: 43 C125 UUID: [989b15eb-2f2c-42ac-9b7c-a70612fe0c20], X, Y: 174.7400 mm, 68.2400 mm, Rounded X, Y, 174.7400 mm, 68.2400 mm
+Info: 44 C5 UUID: [392aa572-63f2-4317-8b79-89485949724a], X, Y: 269.3945 mm, 68.3345 mm, Rounded X, Y, 269.3900 mm, 68.3300 mm
+Info: 45 R63 UUID: [bc3c8697-07da-4b1b-ad16-618c560fa37a], X, Y: 164.7400 mm, 68.4100 mm, Rounded X, Y, 164.7400 mm, 68.4100 mm
+Info: 46 C44 UUID: [55507068-597a-4c50-bc81-2b343b4ef596], X, Y: 255.8478 mm, 68.9222 mm, Rounded X, Y, 255.8500 mm, 68.9200 mm
+Info: 47 C46 UUID: [f81f1620-d48f-402f-9ed9-161e797ba741], X, Y: 257.4078 mm, 68.9172 mm, Rounded X, Y, 257.4100 mm, 68.9200 mm
+Info: 48 C9 UUID: [4cef2cbc-20a6-4f56-a97a-e50f88857f1b], X, Y: 264.6745 mm, 69.4678 mm, Rounded X, Y, 264.6700 mm, 69.4700 mm
+Info: 49 C85 UUID: [8a1972e6-f9a8-44a3-9e4b-757b6644815c], X, Y: 174.7450 mm, 69.7800 mm, Rounded X, Y, 174.7400 mm, 69.7800 mm
+Info: 50 P15 UUID: [5d4950f4-94a1-4ab0-b1e8-e2a42c64c274], X, Y: 160.4600 mm, 70.7400 mm, Rounded X, Y, 160.4600 mm, 70.7400 mm
+Info: 51 D4 UUID: [1e6167bc-7806-4ced-a5f6-e99b2283d242], X, Y: 164.8600 mm, 70.9300 mm, Rounded X, Y, 164.8600 mm, 70.9300 mm
+Info: 52 C54 UUID: [40ddb19d-527e-460f-8d1d-e7faa8b277a1], X, Y: 247.4350 mm, 70.9632 mm, Rounded X, Y, 247.4300 mm, 70.9600 mm
+Info: 53 R24 UUID: [a2a2d179-1175-4308-97c7-fa03d9127053], X, Y: 257.4050 mm, 71.9450 mm, Rounded X, Y, 257.4000 mm, 71.9400 mm
+Info: 54 C21 UUID: [48e97c7a-98fb-4b35-bf23-b7ea8c85fac9], X, Y: 258.9078 mm, 71.9422 mm, Rounded X, Y, 258.9100 mm, 71.9400 mm
+Info: 55 C23 UUID: [afc90274-01fc-4028-8959-5f230f4849e8], X, Y: 260.4078 mm, 71.9372 mm, Rounded X, Y, 260.4100 mm, 71.9400 mm
+Info: 56 C8 UUID: [0aa32a1a-9e2c-4456-bd4a-5561b9c2c8d2], X, Y: 252.7778 mm, 71.9472 mm, Rounded X, Y, 252.7800 mm, 71.9500 mm
+Info: 57 C12 UUID: [2e30bc3b-cc4a-44d0-976b-0f64614a5a2e], X, Y: 254.2878 mm, 71.9472 mm, Rounded X, Y, 254.2900 mm, 71.9500 mm
+Info: 58 R25 UUID: [c10bb1c8-a745-4d9e-94df-30c005a5e76b], X, Y: 255.8450 mm, 71.9500 mm, Rounded X, Y, 255.8400 mm, 71.9500 mm
+Info: 59 C56 UUID: [6334eb73-f858-49e0-af73-47361ff9d93f], X, Y: 247.4250 mm, 72.4793 mm, Rounded X, Y, 247.4200 mm, 72.4800 mm
+Info: 60 R11 UUID: [cbbe08ae-6596-485b-98a3-241e9911a242], X, Y: 264.2645 mm, 72.5595 mm, Rounded X, Y, 264.2600 mm, 72.5600 mm
+Info: 61 R10 UUID: [54610e84-ea16-4391-9601-61ffbcf0932a], X, Y: 267.3745 mm, 72.5595 mm, Rounded X, Y, 267.3700 mm, 72.5600 mm
+Info: 62 R13 UUID: [480c40d1-0b68-4f35-95b9-a10a108eb864], X, Y: 268.8695 mm, 74.0745 mm, Rounded X, Y, 268.8700 mm, 74.0700 mm
+Info: 63 R14 UUID: [d6967e59-ac81-4c74-983a-85444f18308d], X, Y: 262.8045 mm, 74.0845 mm, Rounded X, Y, 262.8000 mm, 74.0800 mm
+Info: 64 C27 UUID: [88129fd6-6252-4341-9a45-cdaa28cd6452], X, Y: 265.8372 mm, 74.0772 mm, Rounded X, Y, 265.8400 mm, 74.0800 mm
+Info: 65 C58 UUID: [011c59c5-0c46-4eac-8687-1cafa03e01eb], X, Y: 247.4000 mm, 74.1043 mm, Rounded X, Y, 247.4000 mm, 74.1000 mm
+Info: 66 C34 UUID: [35ff2996-b5d4-4622-9c88-75b7625d77bb], X, Y: 257.4050 mm, 74.9450 mm, Rounded X, Y, 257.4000 mm, 74.9400 mm
+Info: 67 C118 UUID: [98c13ee8-4310-4a21-8db5-ff993a9f4ac1], X, Y: 252.7778 mm, 74.9472 mm, Rounded X, Y, 252.7800 mm, 74.9500 mm
+Info: 68 C117 UUID: [a56c3097-6f1e-4290-85b5-70a21926c298], X, Y: 254.2878 mm, 74.9522 mm, Rounded X, Y, 254.2900 mm, 74.9500 mm
+Info: 69 C35 UUID: [d4aa73aa-daa5-4297-91ba-12d88b780096], X, Y: 255.8450 mm, 74.9500 mm, Rounded X, Y, 255.8500 mm, 74.9500 mm
+Info: 70 C116 UUID: [6579343a-d450-4ba5-8b44-6cb016f1ef98], X, Y: 258.9178 mm, 74.9522 mm, Rounded X, Y, 258.9200 mm, 74.9500 mm
+Info: 71 C115 UUID: [f6b4802b-cd30-434d-941b-8088132ba7da], X, Y: 260.4078 mm, 74.9572 mm, Rounded X, Y, 260.4100 mm, 74.9600 mm
+Info: 72 C59 UUID: [d16b239e-8706-46a0-9ecf-f607e7faf56c], X, Y: 242.0500 mm, 75.6543 mm, Rounded X, Y, 242.0500 mm, 75.6500 mm
+Info: 73 C57 UUID: [30db28b3-50af-4e57-8044-facdff9db157], X, Y: 247.4000 mm, 75.6543 mm, Rounded X, Y, 247.4000 mm, 75.6500 mm
+Info: 74 C60 UUID: [1aca5681-7aa6-4eae-8c99-50777c4894db], X, Y: 242.0500 mm, 77.2043 mm, Rounded X, Y, 242.0500 mm, 77.2000 mm
+Info: 75 C55 UUID: [64789ba1-d945-4e19-bb37-73597674a88f], X, Y: 247.4000 mm, 77.2043 mm, Rounded X, Y, 247.4000 mm, 77.2000 mm
+Info: 76 C32 UUID: [14a53fb3-99f8-489f-988a-c0d3d55cb28b], X, Y: 255.8478 mm, 77.9872 mm, Rounded X, Y, 255.8500 mm, 77.9900 mm
+Info: 77 C36 UUID: [f15d8941-e5d2-4ee2-8736-35d1b2f31cb2], X, Y: 257.3878 mm, 77.9872 mm, Rounded X, Y, 257.3900 mm, 77.9900 mm
+Info: 78 C82 UUID: [6ef30bfa-4d68-4507-b1f2-4bea123a0a5a], X, Y: 269.2950 mm, 79.6050 mm, Rounded X, Y, 269.2900 mm, 79.6000 mm
+Info: 79 C84 UUID: [a446a4bd-c0df-4521-8cd9-9cb94f0fa056], X, Y: 270.8550 mm, 79.6050 mm, Rounded X, Y, 270.8500 mm, 79.6000 mm
+Info: 80 C88 UUID: [8463b486-db9d-4652-a5f6-722ed7121eba], X, Y: 262.7550 mm, 81.7700 mm, Rounded X, Y, 262.7500 mm, 81.7700 mm
+Info: 81 C80 UUID: [4c3c566b-5d3a-42f0-a0f5-fa1979fedb7f], X, Y: 269.2900 mm, 82.6750 mm, Rounded X, Y, 269.2900 mm, 82.6700 mm
+Info: 82 C81 UUID: [2325ae8a-9804-4d09-ac61-9ae66fe9b83e], X, Y: 270.8650 mm, 82.6750 mm, Rounded X, Y, 270.8600 mm, 82.6700 mm
+Info: 83 C89 UUID: [5f072146-6b82-489f-af77-0c9758aad44e], X, Y: 262.7550 mm, 83.3000 mm, Rounded X, Y, 262.7500 mm, 83.3000 mm
+Info: 84 R51 UUID: [d3d52359-4704-4c2a-a3da-5151eeeac1fc], X, Y: 259.7250 mm, 84.8247 mm, Rounded X, Y, 259.7200 mm, 84.8200 mm
+Info: 85 C90 UUID: [3f49c6aa-37d6-41fd-9675-601b58a2e473], X, Y: 262.7550 mm, 84.8250 mm, Rounded X, Y, 262.7500 mm, 84.8200 mm
+Info: 86 C87 UUID: [cf0b5247-64ae-477a-9c4c-9681fd84ab8b], X, Y: 265.8150 mm, 84.8200 mm, Rounded X, Y, 265.8100 mm, 84.8200 mm
+Info: 87 C79 UUID: [b17ae80e-a340-4fae-baa4-af3df43b9a92], X, Y: 269.2950 mm, 85.6650 mm, Rounded X, Y, 269.2900 mm, 85.6600 mm
+Info: 88 C77 UUID: [9976fec7-33ce-4dee-8290-4d3804dd5e30], X, Y: 270.8550 mm, 85.6650 mm, Rounded X, Y, 270.8500 mm, 85.6600 mm
+Info: 89 C86 UUID: [2b14adac-cca2-4896-8bab-3a1fc486090b], X, Y: 265.8150 mm, 86.3450 mm, Rounded X, Y, 265.8100 mm, 86.3400 mm
+Info: 90 R50 UUID: [ddaad275-5139-407c-8e36-15cf66ac78c7], X, Y: 262.7550 mm, 86.3600 mm, Rounded X, Y, 262.7500 mm, 86.3600 mm
+Info: 91 C67 UUID: [af6de374-1a94-4cad-b07a-19ae085d0789], X, Y: 251.9150 mm, 87.5800 mm, Rounded X, Y, 251.9100 mm, 87.5800 mm
+Info: 92 C69 UUID: [b4d3db8c-66ea-4e6c-a40f-011e0b2b021a], X, Y: 256.6650 mm, 87.5900 mm, Rounded X, Y, 256.6600 mm, 87.5900 mm
+Info: 93 C92 UUID: [71745492-fbdf-4764-ab22-c14f16e7d789], X, Y: 262.7550 mm, 87.8900 mm, Rounded X, Y, 262.7500 mm, 87.8900 mm
+Info: 94 C91 UUID: [6105f66b-49cc-4e83-8855-35e84d62db66], X, Y: 262.7550 mm, 89.4150 mm, Rounded X, Y, 262.7500 mm, 89.4100 mm
+Info: 95 D2 UUID: [32c6056e-b8fa-4c46-ad0c-09c0b4bb2de6], X, Y: 253.5350 mm, 90.2150 mm, Rounded X, Y, 253.5300 mm, 90.2100 mm
+Info: 96 P13 UUID: [62fae5db-aefd-49f4-bd23-c8258f8de2a8], X, Y: 266.3600 mm, 98.6300 mm, Rounded X, Y, 266.3600 mm, 98.6300 mm
+Info: 97 C62 UUID: [185e717d-cafc-477b-8a94-8dd03b893b98], X, Y: 246.0750 mm, 98.8200 mm, Rounded X, Y, 246.0700 mm, 98.8200 mm
+Info: 98 C66 UUID: [f1c13122-72ec-47d0-977a-e001c914b5f8], X, Y: 246.0750 mm, 100.3200 mm, Rounded X, Y, 246.0700 mm, 100.3200 mm
+Info: 99 R47 UUID: [da550156-2ca0-4ce6-aea6-e89b7600c8fc], X, Y: 252.2250 mm, 100.9500 mm, Rounded X, Y, 252.2200 mm, 100.9500 mm
+Info: 100 C64 UUID: [eccbf476-4db6-4dc1-8ec3-eb56c41e9f74], X, Y: 246.0750 mm, 101.8100 mm, Rounded X, Y, 246.0700 mm, 101.8100 mm
+Info: 101 R48 UUID: [9885ea21-53d6-4293-a125-4684aced693e], X, Y: 252.2250 mm, 102.5500 mm, Rounded X, Y, 252.2200 mm, 102.5500 mm
+Info: 102 D5 UUID: [98af2c1c-b6a7-4149-bfdf-bf548e98e423], X, Y: 255.1750 mm, 102.5880 mm, Rounded X, Y, 255.1700 mm, 102.5900 mm
+Info: 103 P11 UUID: [ca42bf9c-0096-433a-b851-e6986d406de4], X, Y: 261.3100 mm, 104.4900 mm, Rounded X, Y, 261.3100 mm, 104.4900 mm
+Info: 104 U7 UUID: [5dc85c26-8c89-40e3-b50e-35482bcb433a], X, Y: 246.1000 mm, 105.1350 mm, Rounded X, Y, 246.1000 mm, 105.1300 mm
+Info: 105 C72 UUID: [27181084-a42d-4a0a-8ead-00b229558e3c], X, Y: 246.0500 mm, 109.7200 mm, Rounded X, Y, 246.0500 mm, 109.7200 mm
+Info: 106 P9 UUID: [deb69fe6-822d-45f4-accb-86c7bc72f6a5], X, Y: 266.7100 mm, 110.8200 mm, Rounded X, Y, 266.7100 mm, 110.8200 mm
+Info: 107 C74 UUID: [0ea40afa-ad0b-4a97-8bed-5210c8e03f19], X, Y: 246.0500 mm, 111.2200 mm, Rounded X, Y, 246.0500 mm, 111.2200 mm
+Info: 108 U21 UUID: [a3bf3566-6d82-4a3a-93da-8f83a1066455], X, Y: 191.5000 mm, 111.3000 mm, Rounded X, Y, 191.5000 mm, 111.3000 mm
+Info: 109 U19 UUID: [9d45ff23-ab3f-461c-a7ae-58c53f71fe04], X, Y: 210.5000 mm, 111.3000 mm, Rounded X, Y, 210.5000 mm, 111.3000 mm
+Info: 110 U17 UUID: [1e6228d2-9c68-47f6-a7cc-da82c1324c88], X, Y: 222.0000 mm, 111.3000 mm, Rounded X, Y, 222.0000 mm, 111.3000 mm
+Info: 111 U15 UUID: [b2af789e-e071-4e79-97b3-14a5a62d7887], X, Y: 240.5000 mm, 111.3000 mm, Rounded X, Y, 240.5000 mm, 111.3000 mm
+Info: 
+Info: 
+Info: There are 10 types of reference designations
+Info: **********************************************************
+Info: H P R S U C D G*** Q FB 
+Info:     Change Array
+Info: ***********************
+Info: C1 -> C22   
+Info: C2 -> C18   
+Info: C3 -> C23   
+Info: C4 -> C10   
+Info: C5 -> C26   
+Info: C6 -> C9   
+Info: C7 -> C24   
+Info: C8 -> C34   
+Info: C9 -> C29   
+Info: C10 -> C11   
+Info: C11 -> C5   
+Info: C12 -> C35   
+Info: C13 -> C17   
+Info: C14 -> C19   
+Info: C15 -> C3   
+Info: C16 -> C6   
+Info: C17 -> C27   
+Info: C18 -> C26   
+Info: C19 -> C8   
+Info: C20 -> C7   
+Info: C21 -> C32   
+Info: C22 -> C10   
+Info: C23 -> C33   
+Info: C24 -> C21   
+Info: C25 -> C12   
+Info: C26 -> C13   
+Info: C27 -> C37   
+Info: C28 -> C28   
+Info: C29 -> C31   
+Info: C30 -> C11   
+Info: C31 -> C14   
+Info: C32 -> C49   
+Info: C33 -> C15   
+Info: C34 -> C39   
+Info: C35 -> C42   
+Info: C36 -> C50   
+Info: C37 -> C14   
+Info: C38 -> C16   
+Info: C39 -> C17   
+Info: C40 -> C23   
+Info: C41 -> C24   
+Info: C42 -> C16   
+Info: C43 -> C15   
+Info: C44 -> C27   
+Info: C45 -> C13   
+Info: C46 -> C28   
+Info: C47 -> C18   
+Info: C48 -> C30   
+Info: C49 -> C21   
+Info: C50 -> C32   
+Info: C51 -> C25   
+Info: C52 -> C19   
+Info: C53 -> C20   
+Info: C54 -> C31   
+Info: C55 -> C48   
+Info: C56 -> C36   
+Info: C57 -> C46   
+Info: C58 -> C38   
+Info: C59 -> C45   
+Info: C60 -> C47   
+Info: C61 -> C38   
+Info: C62 -> C66   
+Info: C63 -> C35   
+Info: C64 -> C68   
+Info: C65 -> C36   
+Info: C66 -> C67   
+Info: C67 -> C62   
+Info: C68 -> C46   
+Info: C69 -> C63   
+Info: C70 -> C52   
+Info: C71 -> C37   
+Info: C72 -> C69   
+Info: C73 -> C34   
+Info: C74 -> C70   
+Info: C75 -> C45   
+Info: C76 -> C47   
+Info: C77 -> C60   
+Info: C78 -> C41   
+Info: C79 -> C59   
+Info: C80 -> C54   
+Info: C81 -> C55   
+Info: C82 -> C51   
+Info: C83 -> C42   
+Info: C84 -> C52   
+Info: C85 -> C30   
+Info: C86 -> C61   
+Info: C87 -> C58   
+Info: C88 -> C53   
+Info: C89 -> C56   
+Info: C90 -> C57   
+Info: C91 -> C65   
+Info: C92 -> C64   
+Info: C93 -> C4   
+Info: C94 -> C2   
+Info: C95 -> C3   
+Info: C96 -> C1   
+Info: C97 -> C54   
+Info: C98 -> C56   
+Info: C99 -> C53   
+Info: C100 -> C55   
+Info: C101 -> C59   
+Info: C102 -> C6   
+Info: C103 -> C60   
+Info: C104 -> C5   
+Info: C105 -> C58   
+Info: C106 -> C7   
+Info: C107 -> C57   
+Info: C108 -> C8   
+Info: C109 -> C4   
+Info: C110 -> C2   
+Info: C111 -> C40   
+Info: C112 -> C39   
+Info: C113 -> C43   
+Info: C114 -> C44   
+Info: C115 -> C44   
+Info: C116 -> C43   
+Info: C117 -> C41   
+Info: C118 -> C40   
+Info: C119 -> C22   
+Info: C120 -> C20   
+Info: C121 -> C9   
+Info: C122 -> C12   
+Info: C123 -> C50   
+Info: C124 -> C49   
+Info: C125 -> C25   
+Info: C126 -> C51   
+Info: C127 -> C48   
+Info: C128 -> C33   
+Info: C129 -> C29   
+Info: D1 -> D5   
+Info: D2 -> D3   
+Info: D3 -> D4   
+Info: D4 -> D2   
+Info: D5 -> D4   
+Info: D6 -> D2   
+Info: D7 -> D1   
+Info: D8 -> D3   
+Info: FB1 -> FB1   
+Info: G*** -> G***2   
+Info: G*** -> G***1   
+Info: H1 -> H1  Excluded  will be ignored
+Info: H2 -> H2  Excluded  will be ignored
+Info: H3 -> H3  Excluded  will be ignored
+Info: H4 -> H4  Excluded  will be ignored
+Info: P1 -> P1  Excluded  will be ignored
+Info: P2 -> P2  Excluded  will be ignored
+Info: P3 -> P3  Excluded  will be ignored
+Info: P4 -> P4  Excluded  will be ignored
+Info: P5 -> P5  Excluded  will be ignored
+Info: P6 -> P6  Excluded  will be ignored
+Info: P7 -> P7  Excluded  will be ignored
+Info: P8 -> P8  Excluded  will be ignored
+Info: P9 -> P9  Excluded  will be ignored
+Info: P10 -> P10   
+Info: P11 -> P11  Excluded  will be ignored
+Info: P12 -> P12  Excluded  will be ignored
+Info: P13 -> P13  Excluded  will be ignored
+Info: P14 -> P14   
+Info: P15 -> P15   
+Info: Q1 -> Q3   
+Info: Q2 -> Q2   
+Info: Q3 -> Q1   
+Info: Q4 -> Q2   
+Info: R1 -> R3   
+Info: R2 -> R2   
+Info: R3 -> R19   
+Info: R4 -> R16   
+Info: R5 -> R4   
+Info: R6 -> R5   
+Info: R7 -> R7   
+Info: R8 -> R6   
+Info: R9 -> R9   
+Info: R10 -> R16   
+Info: R11 -> R15   
+Info: R12 -> R8   
+Info: R13 -> R17   
+Info: R14 -> R18   
+Info: R15 -> R9   
+Info: R16 -> R34   
+Info: R17 -> R33   
+Info: R18 -> R32   
+Info: R19 -> R35   
+Info: R20 -> R10   
+Info: R21 -> R11   
+Info: R22 -> R13   
+Info: R23 -> R12   
+Info: R24 -> R13   
+Info: R25 -> R14   
+Info: R26 -> R10   
+Info: R27 -> R11   
+Info: R28 -> R20   
+Info: R29 -> R21   
+Info: R30 -> R15   
+Info: R31 -> R14   
+Info: R32 -> R30   
+Info: R33 -> R26   
+Info: R34 -> R18   
+Info: R35 -> R17   
+Info: R37 -> R29   
+Info: R38 -> R31   
+Info: R41 -> R42   
+Info: R42 -> R41   
+Info: R43 -> R50   
+Info: R44 -> R48   
+Info: R45 -> R45   
+Info: R46 -> R49   
+Info: R47 -> R21   
+Info: R48 -> R22   
+Info: R49 -> R5   
+Info: R50 -> R20   
+Info: R51 -> R19   
+Info: R52 -> R40   
+Info: R53 -> R39   
+Info: R54 -> R6   
+Info: R55 -> R7   
+Info: R56 -> R8   
+Info: R57 -> R2   
+Info: R58 -> R3   
+Info: R59 -> R4   
+Info: R60 -> R44   
+Info: R61 -> R36   
+Info: R62 -> R47   
+Info: R63 -> R12   
+Info: R64 -> R25   
+Info: R65 -> R22   
+Info: R66 -> R23   
+Info: R67 -> R24   
+Info: R68 -> R46   
+Info: R69 -> R37   
+Info: R70 -> R27   
+Info: R71 -> R28   
+Info: R72 -> R38   
+Info: R73 -> R43   
+Info: R74 -> R74  Excluded  will be ignored
+Info: R75 -> R75  Excluded  will be ignored
+Info: S1 -> S1  Excluded  will be ignored
+Info: U1 -> U4   
+Info: U2 -> U2   
+Info: U3 -> U5   
+Info: U4 -> U3   
+Info: U5 -> U6   
+Info: U6 -> U13   
+Info: U7 -> U4   
+Info: U8 -> U17   
+Info: U9 -> U9   
+Info: U10 -> U12   
+Info: U11 -> U10   
+Info: U12 -> U11   
+Error: Duplicate instances of C22
+Error: Duplicate instances of C18
+Error: Duplicate instances of C23
+Error: Duplicate instances of C10
+Error: Duplicate instances of C26
+Error: Duplicate instances of C9
+Error: Duplicate instances of C24
+Error: Duplicate instances of C34
+Error: Duplicate instances of C29
+Error: Duplicate instances of C11
+Error: Duplicate instances of C5
+Error: Selected options resulted in errors! Change them and try again.
+Error: Duplicate instances of C22
+Error: Duplicate instances of C18
+Error: Duplicate instances of C23
+Error: Duplicate instances of C10
+Error: Duplicate instances of C26
+Error: Duplicate instances of C9
+Error: Duplicate instances of C24
+Error: Duplicate instances of C34
+Error: Duplicate instances of C29
+Error: Duplicate instances of C11
+Error: Duplicate instances of C5
+Error: Selected options resulted in errors! Change them and try again.

@@ -1,0 +1,49 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,NAME,MANUFACTURER,MAXIMUM_PACKAGE_HEIGHT,PARTREV,STANDARD
+1,"Unpolarized capacitor, small symbol",C_Small,C2 C4 C6 C8 C10 C12 C14 C16 C18 C20 C22 C24 C26 C28 C30 C32 C34 C36 C38 C40 C42 C44 C46 C48 C50 C52 C54 C56 C58 C60 C62 C64 C67 C69 C71,100nF,C_0603_1608Metric,35,~,,,,,
+2,Unpolarized capacitor,C,C65 C76,1µF,C_0603_1608Metric,2,~,,,,,
+3,"Unpolarized capacitor, small symbol",C_Small,C1 C3 C5 C7 C9 C11 C13 C15 C17 C19 C21 C23 C25 C27 C29 C31 C33 C35 C37 C39 C41 C43 C45 C47 C49 C51 C53 C55 C57 C59 C61 C63,4.7µF,C_0603_1608Metric,32,~,,,,,
+4,Unpolarized capacitor,C,C66 C68 C70,10µF,C_0603_1608Metric,3,~,,,,,
+5,Unpolarized capacitor,C,C72 C73 C77 C78 C81,22µF,C_0805_2012Metric,5,~,,,,,
+6,,T491X107K025AT,C74 C75 C79 C80,100µF,CAPMP7.6X4.3_4.3N_KEM,4,T491X107K025AT,T491X107K025AT,,,,
+7,Schottky diode,D_Schottky,D1,"BAT54H,115",D_SOD-123F,1,~,,,,,
+8,Light emitting diode,LED,D2 D3,LED,LED_1206_3216Metric,2,~,,,,,
+9,,2773021447,L1 L2,2773021447,IND_2773_14XX_FRT,2,2773021447,,,,,
+10,"Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x03_Odd_Even,P9,Conn_02x03_Odd_Even,PinHeader_2x03_P2.54mm_Horizontal,1,~,,,,,
+11,"Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x04_Odd_Even,P10,Conn_02x04,PinHeader_2x04_P2.54mm_Vertical,1,~,,,,,
+12,,PTN04050CAD,PS1,PTN04050CAD,CONV_PTN04050CAD,1,,,Texas Instruments,8.5mm,A,Manufacturer Recommendations
+13,"0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23",2N7002,Q1 Q3 Q4,DMN65D8L,DMP3099L-7_DIO,3,https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF,,,,,
+14,,DMP3099L_1,Q2,DMP3099L,DMP3099L-7_DIO,1,,,,,,
+15,"Resistor, US symbol",R_US,R14 R15,0Ω,R_0603_1608Metric,2,~,,,,,
+16,"Resistor, US symbol",R_US,R4 R7 R12 R13,100Ω,R_0603_1608Metric,4,~,,,,,
+17,"Resistor, US symbol",R_US,R8,180Ω,R_0603_1608Metric,1,~,,,,,
+18,"Resistor, US symbol",R_US,R3 R5 R6 R9 R10 R11,4.7kΩ,R_0603_1608Metric,6,~,,,,,
+19,"Resistor, US symbol",R_US,R1 R2,10kΩ,R_0603_1608Metric,2,~,,,,,
+20,,CUS-12TB_1,SW1,CUS-12TB,CUS-12TB_NDC,1,CUS-12TB,,,,,
+21,"Single Schmitt NOT Gate, Low-Voltage CMOS",74LVC1G14_1,U33,74LVC1G14,SOT-23-5,1,http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf,,,,,
+22,,AD5272BRMZ-100-RL7_1,U35,AD5272BRMZ-100-RL7,RM_10_ADI,1,AD5272BRMZ-100-RL7,,,,,
+23,,MIC4127,U1 U2 U3 U4 U5 U6 U7 U8 U9 U10 U13 U14 U17 U18 U19 U20 U21 U22 U23 U24 U27 U28 U31 U32,MIC4127,MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias,24,https://www.mouser.com/datasheet/2/268/MIC4126_27_28_Data_Sheet_20006084A-1891221.pdf,,,,,
+24,,MIC4127_8,U11,MIC4127,MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias,1,https://www.mouser.com/datasheet/2/268/MIC4126_27_28_Data_Sheet_20006084A-1891221.pdf,,,,,
+25,,MIC4127_7,U12,MIC4127,MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias,1,https://www.mouser.com/datasheet/2/268/MIC4126_27_28_Data_Sheet_20006084A-1891221.pdf,,,,,
+26,,MIC4127_6,U15,MIC4127,MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias,1,https://www.mouser.com/datasheet/2/268/MIC4126_27_28_Data_Sheet_20006084A-1891221.pdf,,,,,
+27,,MIC4127_5,U16,MIC4127,MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias,1,https://www.mouser.com/datasheet/2/268/MIC4126_27_28_Data_Sheet_20006084A-1891221.pdf,,,,,
+28,,MIC4127_19,U25,MIC4127,MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias,1,https://www.mouser.com/datasheet/2/268/MIC4126_27_28_Data_Sheet_20006084A-1891221.pdf,,,,,
+29,,MIC4127_18,U26,MIC4127,MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias,1,https://www.mouser.com/datasheet/2/268/MIC4126_27_28_Data_Sheet_20006084A-1891221.pdf,,,,,
+30,,MIC4127_17,U29,MIC4127,MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias,1,https://www.mouser.com/datasheet/2/268/MIC4126_27_28_Data_Sheet_20006084A-1891221.pdf,,,,,
+31,,MIC4127_20,U30,MIC4127,MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias,1,https://www.mouser.com/datasheet/2/268/MIC4126_27_28_Data_Sheet_20006084A-1891221.pdf,,,,,
+32,,SIP32510DT-T1-GE3,U34,SIP32510DT-T1-GE3,SIP32510DT-T1-GE3_VIS,1,SIP32510DT-T1-GE3,,,,,
+
+
+
+
+
+Component Groups:,32
+Component Count:,144
+Fitted Components:,144
+Number of PCBs:,1
+Total components:,144
+Schematic Version:,
+Schematic Date:,
+PCB Variant:,default
+BoM Date:,12/13/2023 10:52:46 AM
+Schematic Source:,UltrasonicDrive.kicad_sch
+KiCad Version:,Eeschema (6.0.10)
